@@ -106,6 +106,9 @@ venv.bak/
 # other folders
 books
 papers
+submission
+topology-*
 
 # IDE
 .vscode
+
