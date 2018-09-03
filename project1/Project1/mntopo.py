@@ -2,7 +2,7 @@ from mininet.topo import Topo
 from mininet.net import Mininet
 from mininet.link import TCLink
 from mininet.util import custom
-                                      
+
 # Topology to be instantiated in Mininet
 class MNTopo(Topo):
     "Mininet test topology"
@@ -38,4 +38,4 @@ class MNTopo(Topo):
         self.addLink(sender, s3, port1=0, port2=2, **linkConfig)
 
 if __name__ == '__main__':
-  setLogLevel('debug')
+    setLogLevel('debug')
