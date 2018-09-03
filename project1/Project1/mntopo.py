@@ -38,4 +38,4 @@ class MNTopo(Topo):
         self.addLink(sender, s3, port1=0, port2=2, **linkConfig)
 
 if __name__ == '__main__':
-    setLogLevel('debug')
+    setLogLevel('info')
