@@ -111,4 +111,8 @@ topology-*
 
 # IDE
 .vscode
+.DS_Store
+
+# python compiled files
+*.pyc
 
