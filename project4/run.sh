@@ -18,7 +18,7 @@ rm -rf ./serverlogs
 echo "TFO: `./tfo-test/status_tfo.sh`"
 for delay in 10 50 100
 do
-  DISPLAY=:1 ./tfo.py --delaynet=$delay --name=Paper --tfo=0
+  DISPLAY=:1 ./tfo.py --delaynet=$delay --name=myURLS --tfo=0
   killall -9 python
 done
 
@@ -26,7 +26,7 @@ done
 echo "TFO: `./tfo-test/status_tfo.sh`"
 for delay in 10 50 100
 do
-  DISPLAY=:1 ./tfo.py --delaynet=$delay --name=Paper --tfo=1
+  DISPLAY=:1 ./tfo.py --delaynet=$delay --name=myURLS --tfo=1
   killall -9 python
 done
 

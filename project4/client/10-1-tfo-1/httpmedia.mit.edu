@@ -1,0 +1,1389 @@
+[13531:13536:703843207:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+
+(test_shell:13531): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+Loading hacky DNS from '/home/mininet/Downloads/computer-networks/project4/hack_dns' succeeded.
+Remapping 'fonts.googleapis.com' -> '10.0.0.1' port 8000
+Remapping 'www.google-analytics.com' -> '10.0.0.2' port 8000
+Remapping 'www.media.mit.edu' -> '10.0.0.3' port 8000
+Remapping 'dam-prod.media.mit.edu' -> '10.0.0.4' port 8000
+Remapping 'media.mit.edu' -> '10.0.0.5' port 8000
+Remapping 'events.sjsu.edu' -> '10.0.0.6' port 8000
+Remapping 'www.sjsu.edu' -> '10.0.0.7' port 8000
+Remapping 'platform.twitter.com' -> '10.0.0.8' port 8000
+Remapping 'pbs.twimg.com' -> '10.0.0.9' port 8000
+Remapping 'syndication.twitter.com' -> '10.0.0.10' port 8000
+Remapping 'maxcdn.bootstrapcdn.com' -> '10.0.0.11' port 8000
+Remapping 'canvas.gatech.edu' -> '10.0.0.12' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.13' port 8000
+Remapping 'cdn.syndication.twimg.com' -> '10.0.0.14' port 8000
+[13531:13541:705066309:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705097592:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705097621:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705097631:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705097639:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705098591:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705098609:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705123536:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705125317:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705149153:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705151541:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705151568:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705151581:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705151595:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705155599:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705155620:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705155629:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705157796:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705157817:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705160533:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705172901:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705173785:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705185894:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705198732:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705200619:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705202492:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705202548:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705202714:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705203813:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705205562:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705206557:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705208821:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705208972:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705209006:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705212331:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705212332:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705212332:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705213756:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705223415:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705223475:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705224941:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705234426:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705249108:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705251059:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705252370:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705252397:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705252410:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705254214:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705254236:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705258017:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705258048:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705258058:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705258648:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705262664:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705263445:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705266336:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705266362:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705273664:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705274294:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705278192:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705286606:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705300819:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705300876:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705304671:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705304695:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705304705:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705309041:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705309065:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705309075:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705309084:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705309933:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705312617:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705314360:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705316953:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705316970:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705316980:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705326701:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705327505:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705329852:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705337469:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705351134:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705354828:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705354864:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705354875:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705354884:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705359014:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705359285:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705361089:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705363083:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705363103:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705363111:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705368204:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705369484:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705369504:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705369509:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705381173:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705382581:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705382604:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705391678:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705410508:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705410543:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705410558:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705411643:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705411662:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705411671:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705412771:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705417474:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705417510:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705417527:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705419177:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705419200:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705424299:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705424955:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705424992:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705433513:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705437318:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705439156:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705441269:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13531:705442358:INFO:CONSOLE(0)] "Uncaught ReferenceError: require is not defined," source: http://media.mit.edu/(9163)
+[13531:13531:705442522:INFO:CONSOLE(0)] "Uncaught ReferenceError: require is not defined," source: http://media.mit.edu/(9173)
+[13531:13541:705445336:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705461259:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705462354:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705463486:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705463518:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705466584:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705466653:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705466673:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705467076:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705470183:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705470274:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705470355:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705471005:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705471006:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705475670:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705475755:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705475777:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705482159:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705487709:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705487791:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705491908:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705495004:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705512288:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705512400:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705512423:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705516140:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705516171:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705516190:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705516207:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705518603:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705518634:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705518651:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705521512:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705522474:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705525634:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705525668:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705525686:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705530515:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705539767:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705541293:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705548602:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705560029:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705561093:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705563341:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705566882:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705566949:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705566973:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705567010:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705569804:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705570481:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705570526:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705571670:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705573608:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705576170:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705576205:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705576223:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705578013:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705591853:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705591932:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705600165:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705608229:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705610718:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705610784:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705615921:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705615954:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705615973:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705616745:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705617704:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705620749:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705620797:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705620816:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705622605:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705625912:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705625912:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705625912:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705626851:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705638818:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705642448:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705649192:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705657309:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705657375:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705660249:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705666324:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705666373:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705666393:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705666414:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705669102:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705670756:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705671617:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705671618:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705671625:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705675780:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705675819:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705675839:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705676836:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705687805:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705693669:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705706436:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705706572:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705714946:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705717435:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705717493:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705720046:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705722168:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[13531:13541:705723252:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+<stats>
+c:tfo.supported:	1
+c:WebFrameActiveCount:	1
+t:tfo.page_load_timer:	1917
+c:URLRequestCount:	75
+c:disk_cache.miss:	75
+c:HttpNetworkTransaction.Count:	75
+c:tcp.connect:	232
+c:tcp.write_bytes:	39186
+c:tcp.read_bytes:	817151
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+   70.244 |  1636.752 |  1566.508 |   0 | media.mit.edu:80 ->  10.0.0.5:8000
+   71.870 |    71.870 |     0.000 |   1 | media.mit.edu:80 ->  nil
+  110.950 |   110.950 |     0.000 |   1 | media.mit.edu:80 ->  nil
+  110.966 |   110.966 |     0.000 |   1 | media.mit.edu:80 ->  nil
+  111.421 |   111.421 |     0.000 |   1 | media.mit.edu:80 ->  nil
+  111.430 |   111.430 |     0.000 |   1 | media.mit.edu:80 ->  nil
+ 1249.578 |  1944.783 |   695.205 |   0 | dam-prod.media.mit.edu:443 ->  10.0.0.4:8000
+ 1249.609 |  1249.609 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1249.611 |  1249.611 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1260.626 |  1260.626 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1260.648 |  1260.648 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1260.651 |  1260.651 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1261.503 |  1261.503 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1261.516 |  1261.516 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1261.518 |  1261.518 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1262.853 |  1262.853 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1262.879 |  1262.879 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1262.883 |  1262.883 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1264.800 |  1264.800 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1264.814 |  1264.814 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1264.816 |  1264.816 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1265.655 |  1265.655 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1265.671 |  1265.671 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1265.673 |  1265.673 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1267.511 |  1267.511 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1268.203 |  1268.203 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1269.914 |  1269.914 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1270.430 |  1270.430 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1270.853 |  1270.853 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1271.418 |  1271.418 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1272.665 |  1272.665 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1272.993 |  1272.993 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1273.287 |  1273.287 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1273.858 |  1273.858 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1274.328 |  1274.328 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1275.668 |  1275.668 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1276.139 |  1276.139 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1276.632 |  1276.632 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1276.946 |  1276.946 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1277.114 |  1277.114 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1277.519 |  1277.519 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1278.616 |  1278.616 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1279.073 |  1279.073 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1279.555 |  1279.555 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1279.898 |  1279.898 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1280.380 |  1280.380 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1280.893 |  1280.893 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1281.381 |  1281.381 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1283.069 |  1283.069 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1283.609 |  1283.609 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1284.140 |  1284.140 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1284.546 |  1284.546 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1284.827 |  1284.827 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1288.952 |  1288.952 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1288.960 |  1288.960 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1289.049 |  1289.049 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1289.068 |  1289.068 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1289.071 |  1289.071 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1289.840 |  1289.840 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1290.701 |  1290.701 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1292.032 |  1292.032 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1292.833 |  1292.833 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1293.604 |  1293.604 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1294.137 |  1294.137 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1294.915 |  1294.915 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1295.443 |  1295.443 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1296.069 |  1296.069 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1296.523 |  1296.523 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1296.845 |  1296.845 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1297.318 |  1297.318 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1297.722 |  1297.722 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1298.301 |  1298.301 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1298.746 |  1298.746 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1299.102 |  1299.102 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1300.106 |  1300.106 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1300.478 |  1300.478 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1300.847 |  1300.847 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1301.729 |  1301.729 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1302.040 |  1302.040 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1302.384 |  1302.384 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1316.095 |  1316.095 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1316.378 |  1316.378 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1316.757 |  1316.757 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1318.607 |  1318.607 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.167 |  1320.167 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.172 |  1320.172 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.234 |  1320.234 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.234 |  1320.234 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.270 |  1320.270 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.272 |  1320.272 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.322 |  1320.322 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.331 |  1320.331 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.333 |  1320.333 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.367 |  1320.367 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.373 |  1320.373 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.374 |  1320.374 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.403 |  1320.403 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.412 |  1320.412 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.413 |  1320.413 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.444 |  1320.444 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.450 |  1320.450 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1320.451 |  1320.451 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.103 |  1321.103 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.106 |  1321.106 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.146 |  1321.146 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.148 |  1321.148 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.187 |  1321.187 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.195 |  1321.195 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.197 |  1321.197 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.230 |  1321.230 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.236 |  1321.236 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1321.237 |  1321.237 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1346.115 |  1346.115 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1346.124 |  1346.124 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1346.221 |  1346.221 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1346.234 |  1346.234 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1346.236 |  1346.236 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1347.831 |  1347.831 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1347.836 |  1347.836 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1347.894 |  1347.894 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1361.941 |  1361.941 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1371.726 |  1371.726 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1371.735 |  1371.735 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1371.833 |  1371.833 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.128 |  1374.128 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.137 |  1374.137 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.204 |  1374.204 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.207 |  1374.207 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.276 |  1374.276 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.279 |  1374.279 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.340 |  1374.340 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.352 |  1374.352 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.354 |  1374.354 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.392 |  1374.392 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.401 |  1374.401 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.403 |  1374.403 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.466 |  1374.466 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.474 |  1374.474 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1374.476 |  1374.476 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.131 |  1378.131 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.135 |  1378.135 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.200 |  1378.200 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.203 |  1378.203 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.248 |  1378.248 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.250 |  1378.250 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.298 |  1378.298 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.310 |  1378.310 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.319 |  1378.319 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.331 |  1378.331 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1378.332 |  1378.332 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.319 |  1380.319 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.323 |  1380.323 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.372 |  1380.372 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.374 |  1380.374 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.411 |  1380.411 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1380.423 |  1380.423 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1383.059 |  1383.059 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1383.063 |  1383.063 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1383.108 |  1383.108 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1383.118 |  1383.118 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1383.119 |  1383.119 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1387.025 |  1387.025 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1395.471 |  1395.471 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1395.480 |  1395.480 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1395.556 |  1395.556 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1395.576 |  1395.576 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1395.579 |  1395.579 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1396.313 |  1396.313 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1396.318 |  1396.318 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1396.375 |  1396.375 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1408.476 |  1408.476 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1408.489 |  1408.489 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1408.559 |  1408.559 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1411.793 |  1411.793 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1421.273 |  1421.273 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1421.282 |  1421.282 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1424.063 |  1424.063 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1424.068 |  1424.068 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.055 |  1425.055 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.059 |  1425.059 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.103 |  1425.103 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.105 |  1425.105 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.147 |  1425.147 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.160 |  1425.160 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.330 |  1425.330 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1425.333 |  1425.333 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1426.323 |  1426.323 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1426.327 |  1426.327 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1428.077 |  1428.077 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1428.082 |  1428.082 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1428.232 |  1428.232 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1429.068 |  1429.068 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1429.072 |  1429.072 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1429.200 |  1429.200 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.508 |  1431.508 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.513 |  1431.513 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.638 |  1431.638 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.641 |  1431.641 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.738 |  1431.738 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.741 |  1431.741 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.964 |  1431.964 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1431.977 |  1431.977 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1434.844 |  1434.844 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1434.848 |  1434.848 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1434.982 |  1434.982 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1434.985 |  1434.985 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1435.083 |  1435.083 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1435.085 |  1435.085 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1435.225 |  1435.225 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1435.237 |  1435.237 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1435.245 |  1435.245 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1436.266 |  1436.266 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1436.270 |  1436.270 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1438.123 |  1438.123 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1446.003 |  1446.003 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1446.012 |  1446.012 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1446.150 |  1446.150 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1446.153 |  1446.153 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1446.295 |  1446.295 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1447.479 |  1447.479 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1447.483 |  1447.483 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1447.622 |  1447.622 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1457.024 |  1457.024 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1457.033 |  1457.033 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1457.281 |  1457.281 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1460.030 |  1460.030 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1472.439 |  1472.439 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1472.449 |  1472.449 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1472.549 |  1472.549 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1473.579 |  1473.579 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1473.584 |  1473.584 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1474.917 |  1474.917 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1474.923 |  1474.923 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1474.976 |  1474.976 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1474.978 |  1474.978 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1475.022 |  1475.022 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1475.024 |  1475.024 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.604 |  1476.604 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.794 |  1476.794 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.798 |  1476.798 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.849 |  1476.849 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.854 |  1476.854 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.909 |  1476.909 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1476.921 |  1476.921 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.569 |  1480.569 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.577 |  1480.577 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.619 |  1480.619 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.622 |  1480.622 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.671 |  1480.671 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.674 |  1480.674 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.729 |  1480.729 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1480.743 |  1480.743 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1481.831 |  1481.831 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1481.835 |  1481.835 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1481.899 |  1481.899 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1485.212 |  1485.212 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1485.219 |  1485.219 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1485.276 |  1485.276 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1485.958 |  1485.958 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1485.962 |  1485.962 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1486.005 |  1486.005 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1488.878 |  1488.878 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1488.884 |  1488.884 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1488.941 |  1488.941 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1488.943 |  1488.943 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1488.995 |  1488.995 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1496.214 |  1496.214 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1496.221 |  1496.221 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1497.062 |  1497.062 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1497.066 |  1497.066 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1497.199 |  1497.199 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1500.723 |  1500.723 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1500.730 |  1500.730 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1500.875 |  1500.875 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1502.415 |  1502.415 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1509.157 |  1509.157 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1509.165 |  1509.165 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1509.226 |  1509.226 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1523.440 |  1523.440 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1523.463 |  1523.463 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1523.540 |  1523.540 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1523.544 |  1523.544 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1523.610 |  1523.610 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.210 |  1527.210 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.216 |  1527.216 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.274 |  1527.274 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.276 |  1527.276 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.319 |  1527.319 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.322 |  1527.322 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1527.398 |  1527.398 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1528.142 |  1528.142 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.632 |  1531.632 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.638 |  1531.638 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.687 |  1531.687 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.690 |  1531.690 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.727 |  1531.727 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.729 |  1531.729 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.774 |  1531.774 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.776 |  1531.776 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.854 |  1531.854 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.867 |  1531.867 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.875 |  1531.875 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1531.883 |  1531.883 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1532.440 |  1532.440 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1532.443 |  1532.443 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1532.487 |  1532.487 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1535.144 |  1535.144 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1535.148 |  1535.148 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1536.873 |  1536.873 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1536.877 |  1536.877 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1536.918 |  1536.918 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.487 |  1539.487 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.491 |  1539.491 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.536 |  1539.536 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.538 |  1539.538 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.581 |  1539.581 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.583 |  1539.583 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.628 |  1539.628 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1539.660 |  1539.660 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1549.264 |  1549.264 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1549.273 |  1549.273 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1550.021 |  1550.021 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1550.025 |  1550.025 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1550.071 |  1550.071 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1552.360 |  1552.360 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1552.364 |  1552.364 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1552.406 |  1552.406 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1560.013 |  1560.013 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1560.020 |  1560.020 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1560.085 |  1560.085 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1562.829 |  1562.829 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1573.696 |  1573.696 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1573.705 |  1573.705 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.396 |  1577.396 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.405 |  1577.405 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.462 |  1577.462 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.464 |  1577.464 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.503 |  1577.503 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.505 |  1577.505 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.540 |  1577.540 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.542 |  1577.542 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1577.590 |  1577.590 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.535 |  1581.535 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.539 |  1581.539 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.585 |  1581.585 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.746 |  1581.746 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.746 |  1581.746 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1581.765 |  1581.765 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1583.584 |  1583.584 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1583.584 |  1583.584 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1583.598 |  1583.598 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.624 |  1585.624 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.628 |  1585.628 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.672 |  1585.672 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.675 |  1585.675 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.708 |  1585.708 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.710 |  1585.710 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.771 |  1585.771 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1585.782 |  1585.782 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1590.759 |  1590.759 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1590.767 |  1590.767 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1590.836 |  1590.836 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1591.970 |  1591.970 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1591.970 |  1591.970 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1591.994 |  1591.994 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1591.996 |  1591.996 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1592.032 |  1592.032 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1592.034 |  1592.034 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1592.112 |  1592.112 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1592.124 |  1592.124 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1594.445 |  1594.445 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1603.719 |  1603.719 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1603.726 |  1603.726 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.110 |  1605.110 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.114 |  1605.114 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.158 |  1605.158 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.160 |  1605.160 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.199 |  1605.199 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1605.213 |  1605.213 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1614.180 |  1614.180 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1614.187 |  1614.187 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1614.247 |  1614.247 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.102 |  1633.102 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.111 |  1633.111 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.170 |  1633.170 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.172 |  1633.172 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.211 |  1633.211 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.213 |  1633.213 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1633.334 |  1633.334 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.178 |  1634.178 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.182 |  1634.182 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.226 |  1634.226 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.228 |  1634.228 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.264 |  1634.264 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.266 |  1634.266 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.301 |  1634.301 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.314 |  1634.314 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1634.321 |  1634.321 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1635.298 |  1635.298 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1635.304 |  1635.304 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1636.743 |  1636.743 |     0.000 |   1 | media.mit.edu:80 ->  nil
+ 1636.751 |  1636.751 |     0.000 |   1 | media.mit.edu:80 ->  nil
+ 1636.932 |  1689.643 |    52.711 |   0 | www.google-analytics.com:443 ->  10.0.0.2:8000
+ 1636.949 |  1636.949 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1636.952 |  1636.952 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1640.027 |  1640.027 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1640.031 |  1640.031 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1641.697 |  1641.697 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1641.701 |  1641.701 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.482 |  1642.482 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.485 |  1642.485 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.599 |  1642.599 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.601 |  1642.601 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.693 |  1642.693 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.696 |  1642.696 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.816 |  1642.816 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.869 |  1642.869 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.942 |  1642.942 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1642.952 |  1642.952 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1646.898 |  1646.898 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1646.907 |  1646.907 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.086 |  1647.086 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.514 |  1647.514 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.519 |  1647.519 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.654 |  1647.654 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.657 |  1647.657 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1647.787 |  1647.787 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1656.086 |  1656.086 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1656.095 |  1656.095 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1656.306 |  1656.306 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1659.888 |  1659.888 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1659.897 |  1659.897 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1661.671 |  1661.671 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1661.676 |  1661.676 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1661.811 |  1661.811 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1663.732 |  1663.732 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1663.732 |  1663.732 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1663.732 |  1663.732 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1667.902 |  1667.902 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1667.911 |  1667.911 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1668.092 |  1668.092 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1683.721 |  1683.721 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1683.721 |  1683.721 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1683.786 |  1683.786 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1684.870 |  1684.870 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1684.875 |  1684.875 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.023 |  1686.023 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.028 |  1686.028 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.143 |  1686.143 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.145 |  1686.145 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.280 |  1686.280 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1686.295 |  1686.295 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.176 |  1689.176 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.181 |  1689.181 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.281 |  1689.281 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.284 |  1689.284 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.383 |  1689.383 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.386 |  1689.386 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1689.620 |  1689.620 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1689.639 |  1689.639 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1689.642 |  1689.642 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1692.927 |  1692.927 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1692.931 |  1692.931 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.133 |  1693.133 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.137 |  1693.137 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.227 |  1693.227 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.229 |  1693.229 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.368 |  1693.368 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.466 |  1693.466 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.468 |  1693.468 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.470 |  1693.470 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.576 |  1693.576 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.579 |  1693.579 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.702 |  1693.702 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1693.714 |  1693.714 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.307 |  1698.307 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.317 |  1698.317 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.493 |  1698.493 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.499 |  1698.499 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.621 |  1698.621 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1698.623 |  1698.623 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1699.002 |  1699.002 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1699.019 |  1699.019 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1704.708 |  1704.708 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1704.717 |  1704.717 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1704.901 |  1704.901 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.320 |  1710.320 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.329 |  1710.329 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.483 |  1710.483 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.487 |  1710.487 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.631 |  1710.631 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1710.648 |  1710.648 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1717.531 |  1717.531 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1717.538 |  1717.538 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1717.724 |  1717.724 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1734.994 |  1734.994 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.003 |  1735.003 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.144 |  1735.144 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.147 |  1735.147 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.250 |  1735.250 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.253 |  1735.253 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.467 |  1735.467 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1735.484 |  1735.484 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.709 |  1738.709 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.713 |  1738.713 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.820 |  1738.820 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.823 |  1738.823 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.913 |  1738.913 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1738.916 |  1738.916 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1739.000 |  1739.000 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1739.002 |  1739.002 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1739.401 |  1739.401 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.154 |  1741.154 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.162 |  1741.162 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.268 |  1741.268 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.271 |  1741.271 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.363 |  1741.363 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.365 |  1741.365 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.509 |  1741.509 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1741.642 |  1741.642 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1744.160 |  1744.160 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1744.167 |  1744.167 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1744.532 |  1744.532 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1744.936 |  1744.936 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1744.936 |  1744.936 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1745.071 |  1745.071 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.190 |  1748.190 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.195 |  1748.195 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.304 |  1748.304 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.307 |  1748.307 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.397 |  1748.397 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.400 |  1748.400 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.691 |  1748.691 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1748.705 |  1748.705 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1753.061 |  1753.061 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1753.066 |  1753.066 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1753.226 |  1753.226 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1762.342 |  1762.342 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1762.350 |  1762.350 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1762.504 |  1762.504 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1763.754 |  1763.754 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1763.754 |  1763.754 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1771.144 |  1771.144 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1771.152 |  1771.152 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1771.305 |  1771.305 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1782.635 |  1782.635 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1782.645 |  1782.645 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1783.619 |  1783.619 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1783.626 |  1783.626 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1783.772 |  1783.772 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1785.855 |  1785.855 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1785.859 |  1785.859 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1785.988 |  1785.988 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.550 |  1789.550 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.561 |  1789.561 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.803 |  1789.803 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.810 |  1789.810 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.960 |  1789.960 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1789.963 |  1789.963 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1790.071 |  1790.071 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1790.074 |  1790.074 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1790.481 |  1790.481 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1790.608 |  1790.608 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1792.265 |  1792.265 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1792.265 |  1792.265 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1792.292 |  1792.292 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1793.031 |  1793.031 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1793.035 |  1793.035 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1793.146 |  1793.146 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1793.153 |  1793.153 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1793.272 |  1793.272 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1794.180 |  1794.180 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1794.184 |  1794.184 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1794.298 |  1794.298 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1796.135 |  1796.135 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1796.141 |  1796.141 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1796.280 |  1796.280 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.738 |  1798.738 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.744 |  1798.744 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.891 |  1798.891 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.894 |  1798.894 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.988 |  1798.988 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1798.991 |  1798.991 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1799.166 |  1799.166 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1799.292 |  1799.292 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1800.575 |  1800.575 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1800.584 |  1800.584 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1800.774 |  1800.774 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1814.452 |  1814.452 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1814.460 |  1814.460 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1814.586 |  1814.586 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1814.589 |  1814.589 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1814.898 |  1814.898 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1822.706 |  1822.706 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1822.714 |  1822.714 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1822.876 |  1822.876 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1830.836 |  1830.836 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1830.845 |  1830.845 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.319 |  1833.319 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.326 |  1833.326 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.460 |  1833.460 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.463 |  1833.463 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.600 |  1833.600 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1833.616 |  1833.616 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.494 |  1838.494 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.498 |  1838.498 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.609 |  1838.609 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.612 |  1838.612 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.696 |  1838.696 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1838.698 |  1838.698 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1839.305 |  1839.305 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1839.350 |  1839.350 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1839.352 |  1839.352 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1839.470 |  1839.470 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1840.211 |  1840.211 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1840.214 |  1840.214 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1840.324 |  1840.324 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.317 |  1843.317 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.321 |  1843.321 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.423 |  1843.423 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.426 |  1843.426 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.504 |  1843.504 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.507 |  1843.507 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.628 |  1843.628 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1843.754 |  1843.754 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1845.167 |  1845.167 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1845.183 |  1845.183 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1845.359 |  1845.359 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.374 |  1848.374 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.374 |  1848.374 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.498 |  1848.498 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.501 |  1848.501 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.596 |  1848.596 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.599 |  1848.599 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.732 |  1848.732 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1848.747 |  1848.747 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1849.363 |  1849.363 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1849.366 |  1849.366 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1849.470 |  1849.470 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1861.441 |  1861.441 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1861.451 |  1861.451 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1864.977 |  1864.977 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1864.984 |  1864.984 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1871.827 |  1871.827 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1879.923 |  1879.923 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1879.933 |  1879.933 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1880.107 |  1880.107 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1880.112 |  1880.112 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1880.554 |  1880.554 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1888.935 |  1888.935 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1888.944 |  1888.944 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.076 |  1889.076 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.079 |  1889.079 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.210 |  1889.210 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.213 |  1889.213 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.474 |  1889.474 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.474 |  1889.474 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1891.618 |  1891.618 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1891.633 |  1891.633 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1894.134 |  1894.134 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1894.139 |  1894.139 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1894.262 |  1894.262 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1894.265 |  1894.265 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1894.386 |  1894.386 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1898.406 |  1898.406 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1898.415 |  1898.415 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1898.665 |  1898.665 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1910.458 |  1910.458 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1910.470 |  1910.470 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1929.112 |  1929.112 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1929.121 |  1929.121 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1937.447 |  1937.447 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1937.458 |  1937.458 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1940.053 |  1940.053 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1940.059 |  1940.059 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1944.773 |  1944.773 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1944.782 |  1944.782 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+  110.937 |  1236.438 |  1125.501 | http://media.mit.edu/static/styles/app.15fa1b69f113.css
+  111.415 |  1243.591 |  1132.176 | http://media.mit.edu/static/hijack/hijack-styles.a7cafac63295.css
+ 1249.565 |  1374.452 |   124.887 | https://dam-prod.media.mit.edu/thumb/2018/10/08/JanFullerMLTalks.png.1400x1400.png
+ 1260.613 |  1421.386 |   160.773 | https://dam-prod.media.mit.edu/thumb/2018/09/12/florence_space.jpg.800x800.jpg
+ 1261.496 |  1424.171 |   162.675 | https://dam-prod.media.mit.edu/thumb/2018/10/05/kesvelt-pipette.jpg.800x800.jpg
+ 1262.842 |  1425.495 |   162.653 | https://dam-prod.media.mit.edu/thumb/2018/09/04/Harry_G._Traver_Cyclone_roller_coaster_patent.png.800x800.png
+ 1264.793 |  1426.479 |   161.686 | https://dam-prod.media.mit.edu/thumb/2017/09/05/kinetix.png.800x800.png
+ 1265.641 |  1431.946 |   166.305 | https://dam-prod.media.mit.edu/thumb/2018/07/20/book-light-wood-tunnel.800x800.jpg
+ 1267.503 |  1436.429 |   168.926 | https://dam-prod.media.mit.edu/thumb/2018/09/21/Schoenberg-Omar%20as%20Bogart-1_KcwO77T.png.800x800.png
+ 1268.196 |  1446.380 |   178.184 | https://dam-prod.media.mit.edu/thumb/2018/09/26/lcl-map.png.800x800.png
+ 1269.907 |  1473.613 |   203.706 | https://dam-prod.media.mit.edu/thumb/2018/09/17/msrp_interns_2018.jpg.800x800.jpg
+ 1270.424 |  1476.570 |   206.146 | https://dam-prod.media.mit.edu/thumb/2018/09/28/IROS_Presentation_CircuitRobots_2018.001.jpeg.800x800.jpeg
+ 1270.847 |  1476.721 |   205.874 | https://dam-prod.media.mit.edu/thumb/2018/08/06/_100%20(51).jpg.800x800.jpg
+ 1271.412 |  1481.775 |   210.363 | https://dam-prod.media.mit.edu/thumb/2018/08/23/3.jpg.800x800.jpg
+ 1272.657 |  1489.162 |   216.505 | https://dam-prod.media.mit.edu/thumb/2018/05/03/IMG_20180408_185837131%20(1).jpg.800x800.jpg
+ 1272.983 |  1496.997 |   224.014 | https://dam-prod.media.mit.edu/thumb/2018/07/30/monkey_stairs.jpg.800x800.jpg
+ 1273.281 |  1523.665 |   250.384 | https://dam-prod.media.mit.edu/thumb/2018/04/05/21769396_10209598415349393_744165758_o.png.800x800.png
+ 1273.852 |  1527.376 |   253.524 | https://dam-prod.media.mit.edu/thumb/2018/08/13/Time-Folding%20Optics.jpg.800x800.jpg
+ 1274.322 |  1527.414 |   253.092 | https://dam-prod.media.mit.edu/thumb/2018/08/22/Thumbnail.jpg.800x800.jpg
+ 1275.662 |  1535.201 |   259.539 | https://dam-prod.media.mit.edu/thumb/2018/09/26/03.jpg.800x800.jpg
+ 1276.133 |  1539.649 |   263.516 | https://dam-prod.media.mit.edu/thumb/2018/08/14/DSC06021.JPG.800x800.jpg
+ 1276.625 |  1549.353 |   272.728 | https://dam-prod.media.mit.edu/thumb/2018/08/10/light-abstract-sky-texture-atmosphere-line-space-blue-circle-energy-azure-fantasy-graphics-heavenly-phenomenon-vortex-special-effects-computer-wallpaper-fractal-art-electric-blue-1375180.jpg.800x800.jpg
+ 1276.940 |  1573.785 |   296.845 | https://dam-prod.media.mit.edu/thumb/2018/09/27/front_robot.jpg.800x800.jpg
+ 1277.105 |  1577.590 |   300.485 | https://dam-prod.media.mit.edu/thumb/2018/08/06/DSC_0134.JPG.800x800.jpg
+ 1277.514 |  1577.590 |   300.076 | https://dam-prod.media.mit.edu/thumb/2018/03/20/MEDYA_eO234k9.jpg.800x800.jpg
+ 1278.611 |  1577.591 |   298.980 | https://dam-prod.media.mit.edu/thumb/2018/07/31/ComicCon.JPG.800x800.jpg
+ 1279.068 |  1585.754 |   306.686 | https://dam-prod.media.mit.edu/thumb/2018/07/26/MIT-Emotion-Analysis_0.jpg.800x800.jpg
+ 1279.549 |  1592.090 |   312.541 | https://dam-prod.media.mit.edu/thumb/2018/07/16/comm-bio-logo.png.800x800.png
+ 1279.893 |  1603.794 |   323.901 | https://dam-prod.media.mit.edu/thumb/2018/07/18/theLadder_5X0bx5i.jpeg.800x800.jpeg
+ 1280.375 |  1633.288 |   352.913 | https://dam-prod.media.mit.edu/thumb/2016/10/20/2016-sponsorweek2.jpg.800x800.jpg
+ 1280.888 |  1633.310 |   352.422 | https://dam-prod.media.mit.edu/thumb/2017/08/11/emoji-2074153%20(1)_go0aoJF.png.800x800.png
+ 1281.373 |  1635.426 |   354.053 | https://dam-prod.media.mit.edu/thumb/2018/07/12/val-vesa-624638-unsplash.jpg.800x800.jpg
+   69.763 |  1636.096 |  1566.333 | http://media.mit.edu/
+ 1283.063 |  1642.929 |   359.866 | https://dam-prod.media.mit.edu/thumb/2018/06/21/1820x550_hands.jpg.800x800.jpg
+ 1283.605 |  1647.869 |   364.264 | https://dam-prod.media.mit.edu/thumb/2018/05/11/Screen%20Shot%202018-05-11%20at%2012.37.14%20PM.png.800x800.png
+ 1284.136 |  1660.127 |   375.991 | https://dam-prod.media.mit.edu/thumb/2018/06/20/light-reflection-2682914_1920.jpg.800x800.jpg
+ 1636.736 |  1665.076 |    28.340 | http://media.mit.edu/static/scripts/bundles/common.876bad966688.js
+ 1284.541 |  1685.059 |   400.518 | https://dam-prod.media.mit.edu/thumb/2018/06/22/Brand_Pace%20layering.jpg.800x800.jpg
+ 1284.823 |  1689.536 |   404.713 | https://dam-prod.media.mit.edu/thumb/2018/06/20/dive-visualization_WYrJVYE.gif.800x800.gif
+ 1289.826 |  1689.537 |   399.711 | https://dam-prod.media.mit.edu/thumb/2018/06/09/Slide1.jpg.800x800.jpg
+ 1290.543 |  1689.538 |   398.995 | https://dam-prod.media.mit.edu/thumb/2017/02/27/ryan-e14.jpg.800x800.jpg
+ 1292.024 |  1693.466 |   401.442 | https://dam-prod.media.mit.edu/thumb/2018/05/24/top.jpg.800x800.jpg
+ 1292.827 |  1698.976 |   406.149 | https://dam-prod.media.mit.edu/thumb/2018/05/27/IVN-01.800x800.jpg
+ 1636.927 |  1714.645 |    77.718 | https://www.google-analytics.com/analytics.js
+ 1293.593 |  1735.442 |   441.849 | https://dam-prod.media.mit.edu/thumb/2018/05/29/AMI-gif.gif.800x800.gif
+ 1294.128 |  1739.244 |   445.116 | https://dam-prod.media.mit.edu/thumb/2018/05/10/kids_tega.JPG.800x800.jpg
+ 1294.908 |  1739.320 |   444.412 | https://dam-prod.media.mit.edu/thumb/2018/05/30/Line%20and%20Graph%20Brain_lGr3M6l.jpg.800x800.jpg
+ 1295.437 |  1739.387 |   443.950 | https://dam-prod.media.mit.edu/thumb/2018/05/31/ml-talks-2018-05-290_n8oqDEf.jpg.800x800.jpg
+ 1296.064 |  1741.627 |   445.563 | https://dam-prod.media.mit.edu/thumb/2017/03/28/expansion-microscopy-normalized-eboyden.jpg.800x800.jpg
+ 1296.517 |  1748.673 |   452.156 | https://dam-prod.media.mit.edu/thumb/2018/05/22/DianaLevine-0402.jpg.800x800.jpg
+ 1296.840 |  1763.871 |   467.031 | https://dam-prod.media.mit.edu/thumb/2018/05/08/paradiso-synth.jpg.800x800.jpg
+ 1297.313 |  1783.025 |   485.712 | https://dam-prod.media.mit.edu/thumb/2018/05/05/41788521901_f87831543d_o.jpg.800x800.jpg
+ 1297.715 |  1790.453 |   492.738 | https://dam-prod.media.mit.edu/thumb/2018/04/30/Screen%20Shot%202018-04-30%20at%202.55.57%20PM.png.800x800.png
+ 1298.295 |  1790.589 |   492.294 | https://dam-prod.media.mit.edu/thumb/2018/05/08/NeriOxman02_OceanPavilion_.jpg.800x800.jpg
+ 1298.741 |  1793.381 |   494.640 | https://dam-prod.media.mit.edu/thumb/2018/05/05/lepore.png.800x800.png
+ 1299.097 |  1799.292 |   500.195 | https://dam-prod.media.mit.edu/thumb/2018/04/04/cover_alterego.png.800x800.png
+ 1300.099 |  1814.876 |   514.777 | https://dam-prod.media.mit.edu/thumb/2018/03/16/60minutes.IMG_9646.JPG.800x800.jpg
+ 1300.478 |  1831.183 |   530.705 | https://dam-prod.media.mit.edu/thumb/2018/04/13/MTT.jpg.800x800.jpg
+ 1300.841 |  1839.183 |   538.342 | https://dam-prod.media.mit.edu/thumb/2018/01/17/IMG_8804.jpg.800x800.jpg
+ 1301.723 |  1839.291 |   537.568 | https://dam-prod.media.mit.edu/thumb/2018/05/09/8KbrainMuseum.jpg.800x800.jpg
+ 1302.034 |  1843.740 |   541.706 | https://dam-prod.media.mit.edu/thumb/2018/04/10/Guy-Tyler%20Lemelson.JPG.800x800.jpg
+ 1302.375 |  1849.261 |   546.886 | https://dam-prod.media.mit.edu/thumb/2017/06/04/IMG_20170424_145024096.jpg.800x800.jpg
+ 1316.084 |  1861.834 |   545.750 | https://dam-prod.media.mit.edu/thumb/2017/10/02/0-LYO-P6hf9nD62pP2.jpeg.800x800.jpeg
+ 1316.373 |  1865.227 |   548.854 | https://dam-prod.media.mit.edu/thumb/2018/04/18/Pool2.png.800x800.png
+ 1316.751 |  1880.500 |   563.749 | https://dam-prod.media.mit.edu/thumb/2017/10/19/Oct-19-2017%2010-12-07.gif.800x800.gif
+ 1318.600 |  1889.474 |   570.874 | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-05-04_kV55jdv.jpg.800x800.jpg
+ 1361.928 |  1891.840 |   529.912 | https://dam-prod.media.mit.edu/thumb/2018/03/07/EMMA.gif.800x800.gif
+ 1387.013 |  1894.506 |   507.493 | https://dam-prod.media.mit.edu/thumb/2016/12/12/Toronto_Skyline_at_night_-b.jpg.800x800.jpg
+ 1411.780 |  1898.829 |   487.049 | https://dam-prod.media.mit.edu/thumb/2018/03/16/sketch_car.jpg.800x800.jpg
+ 1438.115 |  1910.765 |   472.650 | https://dam-prod.media.mit.edu/thumb/2018/03/29/14420_cf3c6554ad00bedbfcad15f7ea7d5879.png.800x800.png
+ 1460.021 |  1929.582 |   469.561 | https://dam-prod.media.mit.edu/thumb/2017/11/02/Screen%20Shot%202017-11-02%20at%2011.55.26%20AM.png.800x800.png
+ 1502.405 |  1937.824 |   435.419 | https://dam-prod.media.mit.edu/thumb/2018/03/13/turingbox_logo_white.png.800x800.png
+ 1528.135 |  1940.317 |   412.182 | https://dam-prod.media.mit.edu/thumb/2017/11/20/IMG_6159.JPG.800x800.jpg
+ 1562.818 |  1945.137 |   382.319 | https://dam-prod.media.mit.edu/thumb/2018/02/13/hero_image.png.800x800.png
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+file not found |       text/html |         | http://media.mit.edu/static/styles/app.15fa1b69f113.css -> nil
+file not found |       text/html |         | http://media.mit.edu/static/hijack/hijack-styles.a7cafac63295.css -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/10/08/JanFullerMLTalks.png.1400x1400.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/12/florence_space.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/10/05/kesvelt-pipette.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/04/Harry_G._Traver_Cyclone_roller_coaster_patent.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/09/05/kinetix.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/20/book-light-wood-tunnel.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/21/Schoenberg-Omar%20as%20Bogart-1_KcwO77T.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/26/lcl-map.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/17/msrp_interns_2018.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/28/IROS_Presentation_CircuitRobots_2018.001.jpeg.800x800.jpeg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/06/_100%20(51).jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/23/3.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/03/IMG_20180408_185837131%20(1).jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/30/monkey_stairs.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/05/21769396_10209598415349393_744165758_o.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/13/Time-Folding%20Optics.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/22/Thumbnail.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/26/03.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/14/DSC06021.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/10/light-abstract-sky-texture-atmosphere-line-space-blue-circle-energy-azure-fantasy-graphics-heavenly-phenomenon-vortex-special-effects-computer-wallpaper-fractal-art-electric-blue-1375180.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/09/27/front_robot.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/08/06/DSC_0134.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/20/MEDYA_eO234k9.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/31/ComicCon.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/26/MIT-Emotion-Analysis_0.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/16/comm-bio-logo.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/18/theLadder_5X0bx5i.jpeg.800x800.jpeg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2016/10/20/2016-sponsorweek2.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/08/11/emoji-2074153%20(1)_go0aoJF.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/07/12/val-vesa-624638-unsplash.jpg.800x800.jpg -> nil
+          OK |       text/html |         | http://media.mit.edu/ -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/06/21/1820x550_hands.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/11/Screen%20Shot%202018-05-11%20at%2012.37.14%20PM.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/06/20/light-reflection-2682914_1920.jpg.800x800.jpg -> nil
+file not found |       text/html |         | http://media.mit.edu/static/scripts/bundles/common.876bad966688.js -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/06/22/Brand_Pace%20layering.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/06/20/dive-visualization_WYrJVYE.gif.800x800.gif -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/06/09/Slide1.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/02/27/ryan-e14.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/24/top.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/27/IVN-01.800x800.jpg -> nil
+             |                 |         | https://www.google-analytics.com/analytics.js -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/29/AMI-gif.gif.800x800.gif -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/10/kids_tega.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/30/Line%20and%20Graph%20Brain_lGr3M6l.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/31/ml-talks-2018-05-290_n8oqDEf.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/03/28/expansion-microscopy-normalized-eboyden.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/22/DianaLevine-0402.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/08/paradiso-synth.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/05/41788521901_f87831543d_o.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/30/Screen%20Shot%202018-04-30%20at%202.55.57%20PM.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/08/NeriOxman02_OceanPavilion_.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/05/lepore.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/04/cover_alterego.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/16/60minutes.IMG_9646.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/13/MTT.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/01/17/IMG_8804.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/05/09/8KbrainMuseum.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/10/Guy-Tyler%20Lemelson.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/06/04/IMG_20170424_145024096.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/10/02/0-LYO-P6hf9nD62pP2.jpeg.800x800.jpeg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/04/18/Pool2.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/10/19/Oct-19-2017%2010-12-07.gif.800x800.gif -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-05-04_kV55jdv.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/07/EMMA.gif.800x800.gif -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2016/12/12/Toronto_Skyline_at_night_-b.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/16/sketch_car.jpg.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/29/14420_cf3c6554ad00bedbfcad15f7ea7d5879.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/11/02/Screen%20Shot%202017-11-02%20at%2011.55.26%20AM.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/03/13/turingbox_logo_white.png.800x800.png -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2017/11/20/IMG_6159.JPG.800x800.jpg -> nil
+             |                 |         | https://dam-prod.media.mit.edu/thumb/2018/02/13/hero_image.png.800x800.png -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: DNS.TotalTime recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 1 samples, average = 735761.0 (flags = 0x1)
+0       ... 
+733238  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+792380  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 236 samples, average = 0.1 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 98.3%)
+1  ... 
+7  -O                                                                        (4 = 1.7%) {98.3%}
+8  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 213 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (71 = 33.3%)
+1  ------------------------------------------------------------------------O (71 = 33.3%) {33.3%}
+2  ------------------------------------------------------------------------O (71 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 50.0%)
+1  ... 
+7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+8  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 4 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (4 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 74 samples, average = 398.0 (flags = 0x1)
+0     ... 
+24    -----O                                                                    (1 = 1.4%) {0.0%}
+29    ... 
+68    -----O                                                                    (1 = 1.4%) {1.4%}
+81    ... 
+114   -----O                                                                    (1 = 1.4%) {2.7%}
+135   O                                                                         (0 = 0.0%) {4.1%}
+160   ------------------------------------O                                     (7 = 9.5%) {4.1%}
+190   -------------------------------O                                          (6 = 8.1%) {13.5%}
+226   --------------------------O                                               (5 = 6.8%) {21.6%}
+268   ------------------------------------O                                     (7 = 9.5%) {28.4%}
+318   ------------------------------------O                                     (7 = 9.5%) {37.8%}
+378   ------------------------------------------------------------------------O (14 = 18.9%) {47.3%}
+449   ------------------------------------------------------------------------O (14 = 18.9%) {66.2%}
+533   -----------------------------------------O                                (8 = 10.8%) {85.1%}
+633   ... 
+1062  ----------O                                                               (2 = 2.7%) {95.9%}
+1262  O                                                                         (0 = 0.0%) {98.6%}
+1500  -----O                                                                    (1 = 1.4%) {98.6%}
+1782  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 73 samples, average = 382.0 (flags = 0x1)
+0     ... 
+24    -----O                                                                    (1 = 1.4%) {0.0%}
+29    ... 
+68    -----O                                                                    (1 = 1.4%) {1.4%}
+81    ... 
+114   -----O                                                                    (1 = 1.4%) {2.7%}
+135   O                                                                         (0 = 0.0%) {4.1%}
+160   ------------------------------------O                                     (7 = 9.6%) {4.1%}
+190   -------------------------------O                                          (6 = 8.2%) {13.7%}
+226   --------------------------O                                               (5 = 6.8%) {21.9%}
+268   ------------------------------------O                                     (7 = 9.6%) {28.8%}
+318   ------------------------------------O                                     (7 = 9.6%) {38.4%}
+378   ------------------------------------------------------------------------O (14 = 19.2%) {47.9%}
+449   ------------------------------------------------------------------------O (14 = 19.2%) {67.1%}
+533   -----------------------------------------O                                (8 = 11.0%) {86.3%}
+633   ... 
+1062  ----------O                                                               (2 = 2.7%) {97.3%}
+1262  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 4 samples, average = 962.8 (flags = 0x1)
+0     ... 
+24    ------------------------------------O                                     (1 = 25.0%) {0.0%}
+29    ... 
+1062  ------------------------------------------------------------------------O (2 = 50.0%) {25.0%}
+1262  O                                                                         (0 = 0.0%) {75.0%}
+1500  ------------------------------------O                                     (1 = 25.0%) {75.0%}
+1782  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 1 samples, average = 1566.0 (flags = 0x1)
+0     ... 
+1500  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1782  ... 
+
+Histogram: Net.HttpResponseCode recorded 4 samples, average = 353.0 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (1 = 25.0%) {0.0%}
+201  ... 
+404  ------------------------------------------------------------------------O (3 = 75.0%) {25.0%}
+405  ... 
+
+Histogram: Net.HttpSocketType recorded 4 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (4 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpTimeToFirstByte recorded 75 samples, average = 376.8 (flags = 0x1)
+0     ... 
+27    --------O                                                                 (2 = 2.7%) {0.0%}
+33    ... 
+75    ----O                                                                     (1 = 1.3%) {2.7%}
+92    O                                                                         (0 = 0.0%) {4.0%}
+113   ----O                                                                     (1 = 1.3%) {4.0%}
+139   ------------------------O                                                 (6 = 8.0%) {5.3%}
+171   --------------------O                                                     (5 = 6.7%) {13.3%}
+210   --------------------O                                                     (5 = 6.7%) {20.0%}
+258   ------------------------------------O                                     (9 = 12.0%) {26.7%}
+317   ------------------------------------O                                     (9 = 12.0%) {38.7%}
+389   --------------------------------------------------------------------O     (17 = 22.7%) {50.7%}
+477   ------------------------------------------------------------------------O (18 = 24.0%) {73.3%}
+585   ... 
+1081  --------O                                                                 (2 = 2.7%) {97.3%}
+1326  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 227 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (227 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 213 samples, average = 107.0 (flags = 0x1)
+0    ... 
+107  ------------------------------------------------------------------------O (213 = 100.0%) {0.0%}
+108  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 232 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (232 = 100.0%)
+1  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 1 samples, average = 1566.0 (flags = 0x1)
+0     ... 
+1546  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1750  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 1 samples, average = 1566.0 (flags = 0x1)
+0     ... 
+1546  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1750  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 1 samples, average = 1563.0 (flags = 0x1)
+0     ... 
+1546  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+1750  ... 
+
+
+</queries>

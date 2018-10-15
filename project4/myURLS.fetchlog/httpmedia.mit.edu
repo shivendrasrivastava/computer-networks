@@ -1,0 +1,965 @@
+[32123:32130:4682792985:ERROR:nss_util.cc(90)] Failed to create /home/mininet/.pki/nssdb directory.
+[32123:32130:4682794336:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[32123:32131:4683302201:ERROR:nss_ocsp.cc(612)] No URLRequestContext for NSS HTTP handler. host: gp.symcb.com
+[32123:32131:4683302251:ERROR:cert_verify_proc_nss.cc(783)] CERT_PKIXVerifyCert for media.mit.edu failed err=-8179
+*** Renamed /thumb/2018/09/04/Harry_G._Traver_Cyclone_roller_coaster_patent.png.800x800.png to /217ad3faabe167a3ceb8208329836a42 ***
+*** Renamed /thumb/2018/09/21/Schoenberg-Omar%20as%20Bogart-1_KcwO77T.png.800x800.png to /091bbbcd94f9e44ea3a097a8eb30f190 ***
+*** Renamed /thumb/2018/09/28/IROS_Presentation_CircuitRobots_2018.001.jpeg.800x800.jpeg to /902f985ec59618595742e69bfc61118d ***
+*** Renamed /thumb/2018/04/05/21769396_10209598415349393_744165758_o.png.800x800.png to /59a788f301da47d27d7a9fe283f6f757 ***
+*** Renamed /thumb/2018/08/10/light-abstract-sky-texture-atmosphere-line-space-blue-circle-energy-azure-fantasy-graphics-heavenly-phenomenon-vortex-special-effects-computer-wallpaper-fractal-art-electric-blue-1375180.jpg.800x800.jpg to /a28974373ed84c42fbb48fd3650d649a ***
+*** Renamed /thumb/2018/05/11/Screen%20Shot%202018-05-11%20at%2012.37.14%20PM.png.800x800.png to /3ddf68b8bc9cf4dca1e6e1715632e508 ***
+*** Renamed /thumb/2018/05/30/Line%20and%20Graph%20Brain_lGr3M6l.jpg.800x800.jpg to /883e8af3e8ae9e0159d12d083f0244ee ***
+*** Renamed /thumb/2017/03/28/expansion-microscopy-normalized-eboyden.jpg.800x800.jpg to /3e617db9c6d104f2f63a72f77a910382 ***
+*** Renamed /thumb/2018/04/30/Screen%20Shot%202018-04-30%20at%202.55.57%20PM.png.800x800.png to /f4a3310bf02172a69acbc053655dfde1 ***
+*** Renamed /thumb/2018/03/29/14420_cf3c6554ad00bedbfcad15f7ea7d5879.png.800x800.png to /9a119d61430d1e50c9b65990f65f3562 ***
+*** Renamed /thumb/2017/11/02/Screen%20Shot%202017-11-02%20at%2011.55.26%20AM.png.800x800.png to /f12f371de3f5807a9bc7e1bc76ba59b9 ***
+*** Renamed /static/fonts/9dc6c76b-0260-4292-af1d-0bc9eecbded2.143e251527c7.woff to /610209e374c8d2bc20360a13a3ebb1bd ***
+*** Renamed /static/fonts/da47ecd2-feea-403e-b247-9f8f5bb5157b.c26f66f32388.woff to /eb93021479d283e7c78d4bc47277e782 ***
+*** Renamed /r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEBAAEQ~&jid=1933428434&gjid=55850160&cid=981215607.1539564088&tid=UA-83133910-1&_gid=393936153.1539564088&_r=1&z=425636583 to /4874ae9393450694c01259491d681c8d ***
+*** Renamed /r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEDAAEQ~&jid=839739454&gjid=280317209&cid=981215607.1539564088&tid=UA-1592615-30&_gid=393936153.1539564088&_r=1&z=1298010853 to /32b022569064ff8ce5a185d03735f6a3 ***
+*** Failed creating file Internet/www.media.mit.edu/csrf/ ***
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	1
+t:tfo.page_load_timer:	12490
+c:URLRequestCount:	80
+c:disk_cache.miss:	84
+c:HttpNetworkTransaction.Count:	84
+c:tcp.connect:	17
+c:tcp.write_bytes:	43535
+c:tcp.read_bytes:	68921552
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+   47.418 |    74.873 |    27.455 |   0 | media.mit.edu:80 ->  18.85.28.11:80
+   47.465 |    47.465 |     0.000 |   1 | media.mit.edu:80 ->  nil
+  262.367 |   547.426 |   285.059 |   0 | media.mit.edu:443 ->  18.85.28.11:443
+  262.393 |   262.393 |     0.000 |   1 | media.mit.edu:443 ->  nil
+  262.398 |   262.398 |     0.000 |   1 | media.mit.edu:443 ->  nil
+  547.398 |   547.398 |     0.000 |   1 | media.mit.edu:443 ->  nil
+  547.423 |   547.423 |     0.000 |   1 | media.mit.edu:443 ->  nil
+  547.425 |   547.425 |     0.000 |   1 | media.mit.edu:443 ->  nil
+  949.993 |  2840.585 |  1890.592 |   0 | www.media.mit.edu:443 ->  18.85.28.11:443
+  950.011 |   950.011 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+  974.033 |   974.033 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.457 |  1449.457 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.479 |  1449.479 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.481 |  1449.481 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.845 |  1449.845 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.858 |  1449.858 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1449.860 |  1449.860 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1627.292 |  1627.292 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1627.313 |  1627.313 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1627.316 |  1627.316 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 1627.794 |  2299.761 |   671.967 |   0 | www.google-analytics.com:443 ->  172.217.6.46:443 [2607:f8b0:4005:802::200e]:443
+ 1627.807 |  1627.807 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1647.198 |  1647.198 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 1863.604 |  1941.999 |    78.395 |   0 | dam-prod.media.mit.edu:443 ->  18.85.28.155:443
+ 1863.626 |  1863.626 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1879.823 |  1879.823 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1879.846 |  1879.846 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1881.087 |  1881.087 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1881.105 |  1881.105 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1882.039 |  1882.039 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1882.055 |  1882.055 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1882.619 |  1882.619 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1882.638 |  1882.638 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1883.569 |  1883.569 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1883.585 |  1883.585 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1884.199 |  1884.199 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1885.020 |  1885.020 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1885.815 |  1885.815 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1886.557 |  1886.557 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.134 |  1887.134 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.162 |  1887.162 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.499 |  1887.499 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.595 |  1887.595 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.680 |  1887.680 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1887.753 |  1887.753 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1888.537 |  1888.537 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1889.504 |  1889.504 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1890.655 |  1890.655 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1891.731 |  1891.731 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1892.281 |  1892.281 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1893.092 |  1893.092 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1893.852 |  1893.852 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1896.031 |  1896.031 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1897.059 |  1897.059 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1897.927 |  1897.927 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1898.548 |  1898.548 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1899.397 |  1899.397 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1900.150 |  1900.150 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1901.095 |  1901.095 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1902.293 |  1902.293 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1903.316 |  1903.316 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1903.978 |  1903.978 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1904.834 |  1904.834 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1905.659 |  1905.659 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1906.447 |  1906.447 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1907.247 |  1907.247 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1908.088 |  1908.088 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1908.957 |  1908.957 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1909.713 |  1909.713 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1910.218 |  1910.218 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1911.392 |  1911.392 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1912.337 |  1912.337 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1912.606 |  1912.606 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1913.389 |  1913.389 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1914.471 |  1914.471 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1915.291 |  1915.291 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1915.992 |  1915.992 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1917.192 |  1917.192 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1917.946 |  1917.946 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1919.322 |  1919.322 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1919.797 |  1919.797 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1920.723 |  1920.723 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1922.110 |  1922.110 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1923.654 |  1923.654 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1924.409 |  1924.409 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1925.076 |  1925.076 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1925.789 |  1925.789 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1926.540 |  1926.540 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1927.246 |  1927.246 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1928.050 |  1928.050 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1928.617 |  1928.617 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1929.269 |  1929.269 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1930.284 |  1930.284 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1930.826 |  1930.826 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1932.302 |  1932.302 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1933.258 |  1933.258 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1934.327 |  1934.327 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1935.154 |  1935.154 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1936.131 |  1936.131 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1936.839 |  1936.839 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1937.605 |  1937.605 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1938.478 |  1938.478 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1939.185 |  1939.185 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1940.067 |  1940.067 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 1941.997 |  1941.997 |     0.000 |   1 | dam-prod.media.mit.edu:443 ->  nil
+ 2004.208 |  2004.208 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 2004.708 |  2004.708 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 2296.037 |  2296.037 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2299.732 |  2299.732 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2299.758 |  2299.758 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2299.760 |  2299.760 |     0.000 |   1 | www.google-analytics.com:443 ->  nil
+ 2467.451 |  2841.075 |   373.624 |   0 | stats.g.doubleclick.net:443 ->  74.125.195.157:443 74.125.195.155:443 74.125.195.156:443 74.125.195.154:443 [2607:f8b0:400e:c02::9a]:443
+ 2467.476 |  2467.476 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 2488.839 |  2488.839 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 2840.581 |  2840.581 |     0.000 |   1 | www.media.mit.edu:443 ->  nil
+ 2841.053 |  2841.053 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 2841.072 |  2841.072 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+ 2841.075 |  2841.075 |     0.000 |   1 | stats.g.doubleclick.net:443 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+   47.393 |   262.206 |   214.813 | http://media.mit.edu/
+  262.356 |   949.780 |   687.424 | https://media.mit.edu/
+  949.982 |  1626.304 |   676.322 | https://www.media.mit.edu/
+ 1449.444 |  1722.907 |   273.463 | https://www.media.mit.edu/static/styles/app.15fa1b69f113.css
+ 1627.788 |  1741.635 |   113.847 | https://www.google-analytics.com/analytics.js
+ 1449.838 |  1847.806 |   397.968 | https://www.media.mit.edu/static/hijack/hijack-styles.a7cafac63295.css
+ 1627.281 |  2219.060 |   591.779 | https://www.media.mit.edu/static/scripts/bundles/common.876bad966688.js
+ 2004.195 |  2300.228 |   296.033 | https://www.media.mit.edu/static/fonts/9dc6c76b-0260-4292-af1d-0bc9eecbded2.143e251527c7.woff
+ 2004.701 |  2300.450 |   295.749 | https://www.media.mit.edu/static/fonts/da47ecd2-feea-403e-b247-9f8f5bb5157b.c26f66f32388.woff
+ 2296.023 |  2467.113 |   171.090 | https://www.google-analytics.com/r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEBAAEQ~&jid=1933428434&gjid=55850160&cid=981215607.1539564088&tid=UA-83133910-1&_gid=393936153.1539564088&_r=1&z=425636583
+ 2299.694 |  2840.945 |   541.251 | https://www.google-analytics.com/r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEDAAEQ~&jid=839739454&gjid=280317209&cid=981215607.1539564088&tid=UA-1592615-30&_gid=393936153.1539564088&_r=1&z=1298010853
+ 2467.437 |  2871.596 |   404.159 | https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-83133910-1&cid=981215607.1539564088&jid=1933428434&_gid=393936153.1539564088&gjid=55850160&_v=j70&z=425636583
+ 2841.045 |  2934.201 |    93.156 | https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-1592615-30&cid=981215607.1539564088&jid=839739454&_gid=393936153.1539564088&gjid=280317209&_v=j70&z=1298010853
+ 1881.078 |  2953.621 |  1072.543 | https://dam-prod.media.mit.edu/thumb/2018/10/05/kesvelt-pipette.jpg.800x800.jpg
+ 2840.568 |  2975.727 |   135.159 | https://www.media.mit.edu/csrf/
+ 1879.809 |  3021.424 |  1141.615 | https://dam-prod.media.mit.edu/thumb/2018/09/12/florence_space.jpg.800x800.jpg
+ 1883.561 |  3030.595 |  1147.034 | https://dam-prod.media.mit.edu/thumb/2018/07/20/book-light-wood-tunnel.800x800.jpg
+ 1885.807 |  3240.712 |  1354.905 | https://dam-prod.media.mit.edu/thumb/2018/09/17/msrp_interns_2018.jpg.800x800.jpg
+ 1882.025 |  3247.149 |  1365.124 | https://dam-prod.media.mit.edu/thumb/2018/09/04/Harry_G._Traver_Cyclone_roller_coaster_patent.png.800x800.png
+ 1886.550 |  3411.199 |  1524.649 | https://dam-prod.media.mit.edu/thumb/2018/09/28/IROS_Presentation_CircuitRobots_2018.001.jpeg.800x800.jpeg
+ 1888.526 |  3460.917 |  1572.391 | https://dam-prod.media.mit.edu/thumb/2018/08/06/_100%20(51).jpg.800x800.jpg
+ 1882.612 |  3506.166 |  1623.554 | https://dam-prod.media.mit.edu/thumb/2017/09/05/kinetix.png.800x800.png
+ 1884.191 |  3514.498 |  1630.307 | https://dam-prod.media.mit.edu/thumb/2018/09/21/Schoenberg-Omar%20as%20Bogart-1_KcwO77T.png.800x800.png
+ 1885.013 |  3595.797 |  1710.784 | https://dam-prod.media.mit.edu/thumb/2018/09/26/lcl-map.png.800x800.png
+ 1890.646 |  3628.804 |  1738.158 | https://dam-prod.media.mit.edu/thumb/2018/05/03/IMG_20180408_185837131%20(1).jpg.800x800.jpg
+ 1889.491 |  3648.019 |  1758.528 | https://dam-prod.media.mit.edu/thumb/2018/08/23/3.jpg.800x800.jpg
+ 1891.722 |  3682.908 |  1791.186 | https://dam-prod.media.mit.edu/thumb/2018/07/30/monkey_stairs.jpg.800x800.jpg
+ 1892.275 |  3697.794 |  1805.519 | https://dam-prod.media.mit.edu/thumb/2018/04/05/21769396_10209598415349393_744165758_o.png.800x800.png
+ 1863.592 |  3708.034 |  1844.442 | https://dam-prod.media.mit.edu/thumb/2018/10/08/JanFullerMLTalks.png.1400x1400.png
+ 1893.845 |  3745.886 |  1852.041 | https://dam-prod.media.mit.edu/thumb/2018/08/22/Thumbnail.jpg.800x800.jpg
+ 1896.019 |  3758.003 |  1861.984 | https://dam-prod.media.mit.edu/thumb/2018/09/26/03.jpg.800x800.jpg
+ 1893.084 |  3758.618 |  1865.534 | https://dam-prod.media.mit.edu/thumb/2018/08/13/Time-Folding%20Optics.jpg.800x800.jpg
+ 1897.049 |  3783.205 |  1886.156 | https://dam-prod.media.mit.edu/thumb/2018/08/14/DSC06021.JPG.800x800.jpg
+ 1897.911 |  3807.269 |  1909.358 | https://dam-prod.media.mit.edu/thumb/2018/08/10/light-abstract-sky-texture-atmosphere-line-space-blue-circle-energy-azure-fantasy-graphics-heavenly-phenomenon-vortex-special-effects-computer-wallpaper-fractal-art-electric-blue-1375180.jpg.800x800.jpg
+ 1898.541 |  3815.794 |  1917.253 | https://dam-prod.media.mit.edu/thumb/2018/09/27/front_robot.jpg.800x800.jpg
+ 1899.388 |  3864.399 |  1965.011 | https://dam-prod.media.mit.edu/thumb/2018/08/06/DSC_0134.JPG.800x800.jpg
+ 1900.143 |  3892.353 |  1992.210 | https://dam-prod.media.mit.edu/thumb/2018/03/20/MEDYA_eO234k9.jpg.800x800.jpg
+ 1902.282 |  3901.751 |  1999.469 | https://dam-prod.media.mit.edu/thumb/2018/07/26/MIT-Emotion-Analysis_0.jpg.800x800.jpg
+ 1901.085 |  3906.181 |  2005.096 | https://dam-prod.media.mit.edu/thumb/2018/07/31/ComicCon.JPG.800x800.jpg
+ 1903.970 |  3928.621 |  2024.651 | https://dam-prod.media.mit.edu/thumb/2018/07/18/theLadder_5X0bx5i.jpeg.800x800.jpeg
+ 1906.440 |  4054.171 |  2147.731 | https://dam-prod.media.mit.edu/thumb/2018/07/12/val-vesa-624638-unsplash.jpg.800x800.jpg
+ 1904.821 |  4071.739 |  2166.918 | https://dam-prod.media.mit.edu/thumb/2016/10/20/2016-sponsorweek2.jpg.800x800.jpg
+ 1907.239 |  4081.405 |  2174.166 | https://dam-prod.media.mit.edu/thumb/2018/06/21/1820x550_hands.jpg.800x800.jpg
+ 1903.308 |  4147.921 |  2244.613 | https://dam-prod.media.mit.edu/thumb/2018/07/16/comm-bio-logo.png.800x800.png
+ 1905.651 |  4155.256 |  2249.605 | https://dam-prod.media.mit.edu/thumb/2017/08/11/emoji-2074153%20(1)_go0aoJF.png.800x800.png
+ 1908.951 |  4192.871 |  2283.920 | https://dam-prod.media.mit.edu/thumb/2018/06/20/light-reflection-2682914_1920.jpg.800x800.jpg
+ 1909.706 |  4235.223 |  2325.517 | https://dam-prod.media.mit.edu/thumb/2018/06/22/Brand_Pace%20layering.jpg.800x800.jpg
+ 1911.370 |  4293.743 |  2382.373 | https://dam-prod.media.mit.edu/thumb/2018/06/09/Slide1.jpg.800x800.jpg
+ 1912.599 |  4330.289 |  2417.690 | https://dam-prod.media.mit.edu/thumb/2018/05/24/top.jpg.800x800.jpg
+ 1912.329 |  4330.927 |  2418.598 | https://dam-prod.media.mit.edu/thumb/2017/02/27/ryan-e14.jpg.800x800.jpg
+ 1913.382 |  4373.488 |  2460.106 | https://dam-prod.media.mit.edu/thumb/2018/05/27/IVN-01.800x800.jpg
+ 1915.985 |  4470.899 |  2554.914 | https://dam-prod.media.mit.edu/thumb/2018/05/30/Line%20and%20Graph%20Brain_lGr3M6l.jpg.800x800.jpg
+ 1915.284 |  4504.237 |  2588.953 | https://dam-prod.media.mit.edu/thumb/2018/05/10/kids_tega.JPG.800x800.jpg
+ 1917.184 |  4532.788 |  2615.604 | https://dam-prod.media.mit.edu/thumb/2018/05/31/ml-talks-2018-05-290_n8oqDEf.jpg.800x800.jpg
+ 1917.931 |  4652.480 |  2734.549 | https://dam-prod.media.mit.edu/thumb/2017/03/28/expansion-microscopy-normalized-eboyden.jpg.800x800.jpg
+ 1919.313 |  4663.423 |  2744.110 | https://dam-prod.media.mit.edu/thumb/2018/05/22/DianaLevine-0402.jpg.800x800.jpg
+ 1908.082 |  4680.102 |  2772.020 | https://dam-prod.media.mit.edu/thumb/2018/05/11/Screen%20Shot%202018-05-11%20at%2012.37.14%20PM.png.800x800.png
+ 1919.790 |  4708.083 |  2788.293 | https://dam-prod.media.mit.edu/thumb/2018/05/08/paradiso-synth.jpg.800x800.jpg
+ 1923.645 |  4838.910 |  2915.265 | https://dam-prod.media.mit.edu/thumb/2018/05/08/NeriOxman02_OceanPavilion_.jpg.800x800.jpg
+ 1920.694 |  4874.809 |  2954.115 | https://dam-prod.media.mit.edu/thumb/2018/05/05/41788521901_f87831543d_o.jpg.800x800.jpg
+ 1910.211 |  4997.856 |  3087.645 | https://dam-prod.media.mit.edu/thumb/2018/06/20/dive-visualization_WYrJVYE.gif.800x800.gif
+ 1925.777 |  5066.506 |  3140.729 | https://dam-prod.media.mit.edu/thumb/2018/03/16/60minutes.IMG_9646.JPG.800x800.jpg
+ 1926.533 |  5128.877 |  3202.344 | https://dam-prod.media.mit.edu/thumb/2018/04/13/MTT.jpg.800x800.jpg
+ 1924.397 |  5154.910 |  3230.513 | https://dam-prod.media.mit.edu/thumb/2018/05/05/lepore.png.800x800.png
+ 1914.463 |  5174.578 |  3260.115 | https://dam-prod.media.mit.edu/thumb/2018/05/29/AMI-gif.gif.800x800.gif
+ 1927.238 |  5188.857 |  3261.619 | https://dam-prod.media.mit.edu/thumb/2018/01/17/IMG_8804.jpg.800x800.jpg
+ 1925.069 |  5269.040 |  3343.971 | https://dam-prod.media.mit.edu/thumb/2018/04/04/cover_alterego.png.800x800.png
+ 1928.043 |  5299.040 |  3370.997 | https://dam-prod.media.mit.edu/thumb/2018/05/09/8KbrainMuseum.jpg.800x800.jpg
+ 1921.916 |  5304.368 |  3382.452 | https://dam-prod.media.mit.edu/thumb/2018/04/30/Screen%20Shot%202018-04-30%20at%202.55.57%20PM.png.800x800.png
+ 1929.263 |  5316.483 |  3387.220 | https://dam-prod.media.mit.edu/thumb/2017/06/04/IMG_20170424_145024096.jpg.800x800.jpg
+ 1928.610 |  5321.783 |  3393.173 | https://dam-prod.media.mit.edu/thumb/2018/04/10/Guy-Tyler%20Lemelson.JPG.800x800.jpg
+ 1930.273 |  5334.836 |  3404.563 | https://dam-prod.media.mit.edu/thumb/2017/10/02/0-LYO-P6hf9nD62pP2.jpeg.800x800.jpeg
+ 1933.251 |  5422.139 |  3488.888 | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-05-04_kV55jdv.jpg.800x800.jpg
+ 1935.145 |  5461.866 |  3526.721 | https://dam-prod.media.mit.edu/thumb/2016/12/12/Toronto_Skyline_at_night_-b.jpg.800x800.jpg
+ 1936.120 |  5472.189 |  3536.069 | https://dam-prod.media.mit.edu/thumb/2018/03/16/sketch_car.jpg.800x800.jpg
+ 1930.819 |  5504.215 |  3573.396 | https://dam-prod.media.mit.edu/thumb/2018/04/18/Pool2.png.800x800.png
+ 1936.832 |  5552.747 |  3615.915 | https://dam-prod.media.mit.edu/thumb/2018/03/29/14420_cf3c6554ad00bedbfcad15f7ea7d5879.png.800x800.png
+ 1938.468 |  5590.318 |  3651.850 | https://dam-prod.media.mit.edu/thumb/2018/03/13/turingbox_logo_white.png.800x800.png
+ 1939.173 |  5642.277 |  3703.104 | https://dam-prod.media.mit.edu/thumb/2017/11/20/IMG_6159.JPG.800x800.jpg
+ 1937.597 |  5679.189 |  3741.592 | https://dam-prod.media.mit.edu/thumb/2017/11/02/Screen%20Shot%202017-11-02%20at%2011.55.26%20AM.png.800x800.png
+ 1941.990 |  5725.072 |  3783.082 | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-03-09-04.jpg.800x800.jpg
+ 1940.061 |  5729.855 |  3789.794 | https://dam-prod.media.mit.edu/thumb/2018/02/13/hero_image.png.800x800.png
+ 1934.319 |  5939.143 |  4004.824 | https://dam-prod.media.mit.edu/thumb/2018/03/07/EMMA.gif.800x800.gif
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+Moved Permanently |       text/html |         | http://media.mit.edu/ -> https://media.mit.edu/
+Moved Permanently |       text/html |         | https://media.mit.edu/ -> https://www.media.mit.edu/
+          OK |       text/html |   utf-8 | https://www.media.mit.edu/ -> nil
+          OK |        text/css |         | https://www.media.mit.edu/static/styles/app.15fa1b69f113.css -> nil
+          OK | text/javascript |         | https://www.google-analytics.com/analytics.js -> nil
+          OK |        text/css |         | https://www.media.mit.edu/static/hijack/hijack-styles.a7cafac63295.css -> nil
+          OK | application/javascript |         | https://www.media.mit.edu/static/scripts/bundles/common.876bad966688.js -> nil
+          OK | application/font-woff |         | https://www.media.mit.edu/static/fonts/9dc6c76b-0260-4292-af1d-0bc9eecbded2.143e251527c7.woff -> nil
+          OK | application/font-woff |         | https://www.media.mit.edu/static/fonts/da47ecd2-feea-403e-b247-9f8f5bb5157b.c26f66f32388.woff -> nil
+       Found |       text/html |   utf-8 | https://www.google-analytics.com/r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEBAAEQ~&jid=1933428434&gjid=55850160&cid=981215607.1539564088&tid=UA-83133910-1&_gid=393936153.1539564088&_r=1&z=425636583 -> https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-83133910-1&cid=981215607.1539564088&jid=1933428434&_gid=393936153.1539564088&gjid=55850160&_v=j70&z=425636583
+       Found |       text/html |   utf-8 | https://www.google-analytics.com/r/collect?v=1&_v=j70&a=1835961037&t=pageview&_s=1&dl=https%3A%2F%2Fwww.media.mit.edu%2F&ul=en-us&de=UTF-8&dt=News%20%26%20Updates%20%E2%80%94%20MIT%20Media%20Lab&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=IEDAAEQ~&jid=839739454&gjid=280317209&cid=981215607.1539564088&tid=UA-1592615-30&_gid=393936153.1539564088&_r=1&z=1298010853 -> https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-1592615-30&cid=981215607.1539564088&jid=839739454&_gid=393936153.1539564088&gjid=280317209&_v=j70&z=1298010853
+          OK |       image/gif |         | https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-83133910-1&cid=981215607.1539564088&jid=1933428434&_gid=393936153.1539564088&gjid=55850160&_v=j70&z=425636583 -> nil
+          OK |       image/gif |         | https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-1592615-30&cid=981215607.1539564088&jid=839739454&_gid=393936153.1539564088&gjid=280317209&_v=j70&z=1298010853 -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/10/05/kesvelt-pipette.jpg.800x800.jpg -> nil
+          OK | application/json |         | https://www.media.mit.edu/csrf/ -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/09/12/florence_space.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/20/book-light-wood-tunnel.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/09/17/msrp_interns_2018.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/09/04/Harry_G._Traver_Cyclone_roller_coaster_patent.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/09/28/IROS_Presentation_CircuitRobots_2018.001.jpeg.800x800.jpeg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/06/_100%20(51).jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2017/09/05/kinetix.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/09/21/Schoenberg-Omar%20as%20Bogart-1_KcwO77T.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/09/26/lcl-map.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/03/IMG_20180408_185837131%20(1).jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/23/3.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/30/monkey_stairs.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/04/05/21769396_10209598415349393_744165758_o.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/10/08/JanFullerMLTalks.png.1400x1400.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/22/Thumbnail.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/09/26/03.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/13/Time-Folding%20Optics.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/14/DSC06021.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/10/light-abstract-sky-texture-atmosphere-line-space-blue-circle-energy-azure-fantasy-graphics-heavenly-phenomenon-vortex-special-effects-computer-wallpaper-fractal-art-electric-blue-1375180.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/09/27/front_robot.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/08/06/DSC_0134.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/03/20/MEDYA_eO234k9.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/26/MIT-Emotion-Analysis_0.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/31/ComicCon.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/18/theLadder_5X0bx5i.jpeg.800x800.jpeg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/07/12/val-vesa-624638-unsplash.jpg.800x800.jpg -> nil
+   Not Found | application/json |   utf-8 | https://dam-prod.media.mit.edu/thumb/2016/10/20/2016-sponsorweek2.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/06/21/1820x550_hands.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/07/16/comm-bio-logo.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2017/08/11/emoji-2074153%20(1)_go0aoJF.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/06/20/light-reflection-2682914_1920.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/06/22/Brand_Pace%20layering.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/06/09/Slide1.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/24/top.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2017/02/27/ryan-e14.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/27/IVN-01.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/30/Line%20and%20Graph%20Brain_lGr3M6l.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/10/kids_tega.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/31/ml-talks-2018-05-290_n8oqDEf.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2017/03/28/expansion-microscopy-normalized-eboyden.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/22/DianaLevine-0402.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/05/11/Screen%20Shot%202018-05-11%20at%2012.37.14%20PM.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/08/paradiso-synth.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/08/NeriOxman02_OceanPavilion_.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/05/41788521901_f87831543d_o.jpg.800x800.jpg -> nil
+          OK |       image/gif |         | https://dam-prod.media.mit.edu/thumb/2018/06/20/dive-visualization_WYrJVYE.gif.800x800.gif -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/03/16/60minutes.IMG_9646.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/04/13/MTT.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/05/05/lepore.png.800x800.png -> nil
+          OK |       image/gif |         | https://dam-prod.media.mit.edu/thumb/2018/05/29/AMI-gif.gif.800x800.gif -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/01/17/IMG_8804.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/04/04/cover_alterego.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/05/09/8KbrainMuseum.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/04/30/Screen%20Shot%202018-04-30%20at%202.55.57%20PM.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2017/06/04/IMG_20170424_145024096.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/04/10/Guy-Tyler%20Lemelson.JPG.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2017/10/02/0-LYO-P6hf9nD62pP2.jpeg.800x800.jpeg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-05-04_kV55jdv.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2016/12/12/Toronto_Skyline_at_night_-b.jpg.800x800.jpg -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2018/03/16/sketch_car.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/04/18/Pool2.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/03/29/14420_cf3c6554ad00bedbfcad15f7ea7d5879.png.800x800.png -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/03/13/turingbox_logo_white.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/2017/11/20/IMG_6159.JPG.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2017/11/02/Screen%20Shot%202017-11-02%20at%2011.55.26%20AM.png.800x800.png -> nil
+          OK |      image/jpeg |         | https://dam-prod.media.mit.edu/thumb/video/posters/ml-talks-2018-03-09-04.jpg.800x800.jpg -> nil
+          OK |       image/png |         | https://dam-prod.media.mit.edu/thumb/2018/02/13/hero_image.png.800x800.png -> nil
+          OK |       image/gif |         | https://dam-prod.media.mit.edu/thumb/2018/03/07/EMMA.gif.800x800.gif -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: AsyncDNS.HaveDnsConfig recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.AttemptDiscarded recorded 5 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (5 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccess recorded 5 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (5 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccessDuration recorded 5 samples, average = 22.8 (flags = 0x1)
+0   ... 
+18  ------------------------------------O                                     (1 = 20.0%) {0.0%}
+21  ------------------------------------------------------------------------O (2 = 40.0%) {20.0%}
+24  ------------------------------------------------------O                   (2 = 40.0%) {60.0%}
+28  ... 
+
+Histogram: DNS.AttemptTimeSavedByRetry recorded 5 samples, average = 4684171.0 (flags = 0x1)
+0        ... 
+3600000  ------------------------------------------------------------------------O (5 = 100.0%) {0.0%}
+
+Histogram: DNS.JobQueueTime recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange_LOWEST recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTime_LOWEST recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveCategory recorded 5 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (5 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveSuccess recorded 5 samples, average = 22.6 (flags = 0x1)
+0   ... 
+18  ------------------------O                                                 (1 = 20.0%) {0.0%}
+21  ------------------------------------------------------------------------O (3 = 60.0%) {20.0%}
+24  ------------------O                                                       (1 = 20.0%) {80.0%}
+28  ... 
+
+Histogram: DNS.ResolveSuccess_FAMILY_UNSPEC recorded 5 samples, average = 22.6 (flags = 0x1)
+0   ... 
+18  ------------------------O                                                 (1 = 20.0%) {0.0%}
+21  ------------------------------------------------------------------------O (3 = 60.0%) {20.0%}
+24  ------------------O                                                       (1 = 20.0%) {80.0%}
+28  ... 
+
+Histogram: DNS.TotalTime recorded 17 samples, average = 8.2 (flags = 0x1)
+0   ------------------------------------------------------------------------O (7 = 41.2%)
+1   ... 
+4   ----------O                                                               (1 = 5.9%) {41.2%}
+5   ---------------------O                                                    (2 = 11.8%) {47.1%}
+6   ----------O                                                               (1 = 5.9%) {58.8%}
+7   ----------O                                                               (1 = 5.9%) {64.7%}
+8   ... 
+18  ---O                                                                      (1 = 5.9%) {70.6%}
+21  ----------O                                                               (3 = 17.6%) {76.5%}
+24  ---O                                                                      (1 = 5.9%) {94.1%}
+28  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.CertVerifier_Job_Latency recorded 5 samples, average = 0.6 (flags = 0x1)
+0  ------------------------------------------------------------------------O (3 = 60.0%)
+1  ------------------------O                                                 (1 = 20.0%) {60.0%}
+2  ------------------------O                                                 (1 = 20.0%) {80.0%}
+3  ... 
+
+Histogram: Net.Compress.SSL.BytesAfterCompression recorded 5 samples, average = 406585.6 (flags = 0x1)
+0       ... 
+2974    ------------------------------------------------------------------------O (1 = 20.0%) {0.0%}
+3214    ... 
+41569   ------------------------------------------------------------------------O (1 = 20.0%) {20.0%}
+44922   ... 
+337565  ------------------------------------------------------------------------O (1 = 20.0%) {40.0%}
+364793  ... 
+733238  ------------------------------------------------------------------------O (1 = 20.0%) {60.0%}
+792380  O                                                                         (0 = 0.0%) {80.0%}
+856293  ------------------------------------------------------------------------O (1 = 20.0%) {80.0%}
+925361  ... 
+
+Histogram: Net.Compress.SSL.BytesBeforeCompression recorded 5 samples, average = 101026.2 (flags = 0x1)
+0       ... 
+796     ------------------------------------------------------------------------O (1 = 20.0%) {0.0%}
+860     ... 
+16387   ------------------------------------------------------------------------O (1 = 20.0%) {20.0%}
+17709   ... 
+41569   ------------------------------------------------------------------------O (1 = 20.0%) {40.0%}
+44922   ... 
+181489  ------------------------------------------------------------------------O (1 = 20.0%) {60.0%}
+196128  ... 
+247516  ------------------------------------------------------------------------O (1 = 20.0%) {80.0%}
+267480  ... 
+
+Histogram: Net.Compress.SSL.ShouldHaveBeenCompressed recorded 2 samples, average = 101.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+500... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 62 samples, average = 4.8 (flags = 0x1)
+0   ------------------------------------------------------------------------O (17 = 27.4%)
+1   ----------------------------------------------------------------O         (15 = 24.2%) {27.4%}
+2   ... 
+7   ----------------------------------------------------------------O         (15 = 24.2%) {51.6%}
+8   ... 
+12  ----------------------------------------------------------------O         (15 = 24.2%) {75.8%}
+13  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 84 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (84 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 17 samples, average = 86.2 (flags = 0x1)
+0    ... 
+14   ------------------------------------O                                     (1 = 5.9%) {0.0%}
+16   ... 
+33   ------------------O                                                       (1 = 5.9%) {5.9%}
+37   --------------O                                                           (1 = 5.9%) {11.8%}
+42   ... 
+54   --------------O                                                           (1 = 5.9%) {17.6%}
+61   ... 
+88   ------------------------------------------------------------------------O (5 = 29.4%) {23.5%}
+100  ------------------------------------------------------------------------O (5 = 29.4%) {52.9%}
+113  -------------------------------------------O                              (3 = 17.6%) {82.4%}
+128  ... 
+
+Histogram: Net.HadConnectionType3 recorded 4 samples, average = 5.0 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 25.0%)
+1   ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+2   ... 
+7   ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+8   ... 
+12  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+13  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 15 samples, average = 195.3 (flags = 0x1)
+0    ------------------------------------------------------------------------O (1 = 6.7%)
+1    ... 
+10   ------------------------------------------------------------------------O (1 = 6.7%) {6.7%}
+11   ... 
+33   ------------------O                                                       (1 = 6.7%) {13.3%}
+37   ... 
+88   --------------O                                                           (1 = 6.7%) {20.0%}
+100  O                                                                         (0 = 0.0%) {26.7%}
+113  --------------O                                                           (1 = 6.7%) {26.7%}
+128  O                                                                         (0 = 0.0%) {33.3%}
+145  --------------O                                                           (1 = 6.7%) {33.3%}
+164  -----------------------------O                                            (2 = 13.3%) {40.0%}
+186  ... 
+271  -----------------------------O                                            (2 = 13.3%) {53.3%}
+307  ------------------------------------------------------------------------O (5 = 33.3%) {66.7%}
+348  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 84 samples, average = 2257.4 (flags = 0x1)
+0      ... 
+81     -----O                                                                    (1 = 1.2%) {0.0%}
+96     -----O                                                                    (1 = 1.2%) {1.2%}
+114    O                                                                         (0 = 0.0%) {2.4%}
+135    -----O                                                                    (1 = 1.2%) {2.4%}
+160    -----O                                                                    (1 = 1.2%) {3.6%}
+190    -----O                                                                    (1 = 1.2%) {4.8%}
+226    O                                                                         (0 = 0.0%) {6.0%}
+268    --------------O                                                           (3 = 3.6%) {6.0%}
+318    O                                                                         (0 = 0.0%) {9.5%}
+378    ----------O                                                               (2 = 2.4%) {9.5%}
+449    O                                                                         (0 = 0.0%) {11.9%}
+533    ----------O                                                               (2 = 2.4%) {11.9%}
+633    ----------O                                                               (2 = 2.4%) {14.3%}
+752    ... 
+1062   --------------O                                                           (3 = 3.6%) {16.7%}
+1262   ----------O                                                               (2 = 2.4%) {20.2%}
+1500   ----------------------------------O                                       (7 = 8.3%) {22.6%}
+1782   -------------------------------------------------------------------O      (14 = 16.7%) {31.0%}
+2117   -----------------------------------------------------O                    (11 = 13.1%) {47.6%}
+2516   -------------------------------------------O                              (9 = 10.7%) {60.7%}
+2990   ------------------------------------------------------------------------O (15 = 17.9%) {71.4%}
+3553   --------------------------------------O                                   (8 = 9.5%) {89.3%}
+4222   ... 
+10000  -----O                                                                    (1 = 1.2%) {98.8%}
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 4 samples, average = 403.2 (flags = 0x1)
+0    ... 
+160  ------------------------------------------------------------------------O (1 = 25.0%) {0.0%}
+190  ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+226  ... 
+533  ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+633  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+752  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 84 samples, average = 2257.4 (flags = 0x1)
+0      ... 
+81     -----O                                                                    (1 = 1.2%) {0.0%}
+96     -----O                                                                    (1 = 1.2%) {1.2%}
+114    O                                                                         (0 = 0.0%) {2.4%}
+135    -----O                                                                    (1 = 1.2%) {2.4%}
+160    -----O                                                                    (1 = 1.2%) {3.6%}
+190    -----O                                                                    (1 = 1.2%) {4.8%}
+226    O                                                                         (0 = 0.0%) {6.0%}
+268    --------------O                                                           (3 = 3.6%) {6.0%}
+318    O                                                                         (0 = 0.0%) {9.5%}
+378    ----------O                                                               (2 = 2.4%) {9.5%}
+449    O                                                                         (0 = 0.0%) {11.9%}
+533    ----------O                                                               (2 = 2.4%) {11.9%}
+633    ----------O                                                               (2 = 2.4%) {14.3%}
+752    ... 
+1062   --------------O                                                           (3 = 3.6%) {16.7%}
+1262   ----------O                                                               (2 = 2.4%) {20.2%}
+1500   ----------------------------------O                                       (7 = 8.3%) {22.6%}
+1782   -------------------------------------------------------------------O      (14 = 16.7%) {31.0%}
+2117   -----------------------------------------------------O                    (11 = 13.1%) {47.6%}
+2516   -------------------------------------------O                              (9 = 10.7%) {60.7%}
+2990   ------------------------------------------------------------------------O (15 = 17.9%) {71.4%}
+3553   --------------------------------------O                                   (8 = 9.5%) {89.3%}
+4222   ... 
+10000  -----O                                                                    (1 = 1.2%) {98.8%}
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 80 samples, average = 2350.1 (flags = 0x1)
+0      ... 
+81     -----O                                                                    (1 = 1.2%) {0.0%}
+96     -----O                                                                    (1 = 1.2%) {1.2%}
+114    O                                                                         (0 = 0.0%) {2.5%}
+135    -----O                                                                    (1 = 1.2%) {2.5%}
+160    ... 
+268    --------------O                                                           (3 = 3.8%) {3.8%}
+318    O                                                                         (0 = 0.0%) {7.5%}
+378    ----------O                                                               (2 = 2.5%) {7.5%}
+449    O                                                                         (0 = 0.0%) {10.0%}
+533    -----O                                                                    (1 = 1.2%) {10.0%}
+633    -----O                                                                    (1 = 1.2%) {11.2%}
+752    ... 
+1062   --------------O                                                           (3 = 3.8%) {12.5%}
+1262   ----------O                                                               (2 = 2.5%) {16.2%}
+1500   ----------------------------------O                                       (7 = 8.8%) {18.8%}
+1782   -------------------------------------------------------------------O      (14 = 17.5%) {27.5%}
+2117   -----------------------------------------------------O                    (11 = 13.8%) {45.0%}
+2516   -------------------------------------------O                              (9 = 11.2%) {58.8%}
+2990   ------------------------------------------------------------------------O (15 = 18.8%) {70.0%}
+3553   --------------------------------------O                                   (8 = 10.0%) {88.8%}
+4222   ... 
+10000  -----O                                                                    (1 = 1.2%) {98.8%}
+
+Histogram: Net.HttpResponseCode recorded 84 samples, average = 207.3 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (79 = 94.0%) {0.0%}
+201  ... 
+301  ------------------------------------------------------------------------O (2 = 2.4%) {94.0%}
+302  ------------------------------------------------------------------------O (2 = 2.4%) {96.4%}
+303  ... 
+404  ------------------------------------------------------------------------O (1 = 1.2%) {98.8%}
+405  ... 
+
+Histogram: Net.HttpSocketType recorded 85 samples, average = 1.6 (flags = 0x1)
+0  ---------------O                                                          (15 = 17.6%)
+1  O                                                                         (0 = 0.0%) {17.6%}
+2  ------------------------------------------------------------------------O (70 = 82.4%) {17.6%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.HttpTimeToFirstByte recorded 85 samples, average = 1978.4 (flags = 0x1)
+0     ... 
+27    ----O                                                                     (1 = 1.2%) {0.0%}
+33    ... 
+61    ----O                                                                     (1 = 1.2%) {1.2%}
+75    O                                                                         (0 = 0.0%) {2.4%}
+92    --------O                                                                 (2 = 2.4%) {2.4%}
+113   ----O                                                                     (1 = 1.2%) {4.7%}
+139   O                                                                         (0 = 0.0%) {5.9%}
+171   -------------O                                                            (3 = 3.5%) {5.9%}
+210   ----O                                                                     (1 = 1.2%) {9.4%}
+258   -------------O                                                            (3 = 3.5%) {10.6%}
+317   O                                                                         (0 = 0.0%) {14.1%}
+389   --------O                                                                 (2 = 2.4%) {14.1%}
+477   ------------------------------O                                           (7 = 8.2%) {16.5%}
+585   ... 
+1081  -------------O                                                            (3 = 3.5%) {24.7%}
+1326  -------------O                                                            (3 = 3.5%) {28.2%}
+1627  -------------------------------------------------------O                  (13 = 15.3%) {31.8%}
+1996  -----------------------------------------------------------O              (14 = 16.5%) {47.1%}
+2449  -----------------------------------------------O                          (11 = 12.9%) {63.5%}
+3005  ------------------------------------------------------------------------O (17 = 20.0%) {76.5%}
+3687  -------------O                                                            (3 = 3.5%) {96.5%}
+4524  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 1 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.RenegotiationExtensionSupported recorded 16 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (16 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SSLCertVerificationTime recorded 14 samples, average = 0.1 (flags = 0x1)
+0  ------------------------------------------------------------------------O (13 = 92.9%)
+1  ------O                                                                   (1 = 7.1%) {92.9%}
+2  ... 
+
+Histogram: Net.SSLCertVerificationTimeError recorded 1 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.SSL_Connection_Latency recorded 15 samples, average = 132.6 (flags = 0x1)
+0    ... 
+20   ------------------------O                                                 (1 = 6.7%) {0.0%}
+23   ... 
+37   --------------O                                                           (1 = 6.7%) {6.7%}
+42   ... 
+54   --------------O                                                           (1 = 6.7%) {13.3%}
+61   ... 
+88   ------------------------------------------------------------------------O (5 = 33.3%) {20.0%}
+100  ... 
+186  ------------------------------------------------------------------------O (5 = 33.3%) {53.3%}
+211  -----------------------------O                                            (2 = 13.3%) {86.7%}
+239  ... 
+
+Histogram: Net.SSL_Connection_Latency_Full_Handshake recorded 9 samples, average = 173.0 (flags = 0x1)
+0    ... 
+56   ------------------O                                                       (1 = 11.1%) {0.0%}
+62   ... 
+83   ------------------O                                                       (1 = 11.1%) {11.1%}
+92   ... 
+181  ------------------------------------------------------O                   (3 = 33.3%) {22.2%}
+200  ------------------------------------------------------------------------O (4 = 44.4%) {55.6%}
+221  ... 
+
+Histogram: Net.SSL_Connection_Latency_Resume_Handshake recorded 6 samples, average = 72.0 (flags = 0x1)
+0   ... 
+19  ------------------------------------------------------------O             (1 = 16.7%) {0.0%}
+21  ... 
+38  ------------------------------O                                           (1 = 16.7%) {16.7%}
+42  ... 
+83  ------------------------O                                                 (1 = 16.7%) {33.3%}
+92  ------------------------------------------------------------------------O (3 = 50.0%) {50.0%}
+101 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket recorded 70 samples, average = 20.6 (flags = 0x1)
+0    ------------------------------------------------------------------------O (66 = 94.3%)
+1    ... 
+152  O                                                                         (1 = 1.4%) {94.3%}
+171  O                                                                         (1 = 1.4%) {95.7%}
+192  ... 
+492  O                                                                         (1 = 1.4%) {97.1%}
+553  O                                                                         (1 = 1.4%) {98.6%}
+622  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 70 samples, average = 20.6 (flags = 0x1)
+0    ------------------------------------------------------------------------O (66 = 94.3%)
+1    ... 
+152  O                                                                         (1 = 1.4%) {94.3%}
+171  O                                                                         (1 = 1.4%) {95.7%}
+192  ... 
+492  O                                                                         (1 = 1.4%) {97.1%}
+553  O                                                                         (1 = 1.4%) {98.6%}
+622  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 84 samples, average = 2.4 (flags = 0x1)
+0    ------------------------------------------------------------------------O (83 = 98.8%)
+1    ... 
+202  ------------------------------------------------------------------------O (1 = 1.2%) {98.8%}
+203  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 17 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (17 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 13 samples, average = 216.4 (flags = 0x1)
+0    ... 
+10   ------------------------------------------------------------------------O (1 = 7.7%) {0.0%}
+11   ... 
+33   ------------------O                                                       (1 = 7.7%) {7.7%}
+37   ... 
+88   --------------O                                                           (1 = 7.7%) {15.4%}
+100  ... 
+145  --------------O                                                           (1 = 7.7%) {23.1%}
+164  -----------------------------O                                            (2 = 15.4%) {30.8%}
+186  ... 
+271  -----------------------------O                                            (2 = 15.4%) {46.2%}
+307  ------------------------------------------------------------------------O (5 = 38.5%) {61.5%}
+348  ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 17 samples, average = 86.2 (flags = 0x1)
+0    ... 
+14   ------------------------------------O                                     (1 = 5.9%) {0.0%}
+16   ... 
+33   ------------------O                                                       (1 = 5.9%) {5.9%}
+37   --------------O                                                           (1 = 5.9%) {11.8%}
+42   ... 
+54   --------------O                                                           (1 = 5.9%) {17.6%}
+61   ... 
+88   ------------------------------------------------------------------------O (5 = 29.4%) {23.5%}
+100  ------------------------------------------------------------------------O (5 = 29.4%) {52.9%}
+113  -------------------------------------------O                              (3 = 17.6%) {82.4%}
+128  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 83 samples, average = 1.7 (flags = 0x1)
+0  -------------O                                                            (13 = 15.7%)
+1  O                                                                         (0 = 0.0%) {15.7%}
+2  ------------------------------------------------------------------------O (70 = 84.3%) {15.7%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 17 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (17 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 17 samples, average = 77.6 (flags = 0x1)
+0    ... 
+14   ------------------------------O                                           (2 = 11.8%) {0.0%}
+16   ... 
+37   ------------O                                                             (2 = 11.8%) {11.8%}
+42   ... 
+88   ------------------------------------------------------------------------O (12 = 70.6%) {23.5%}
+100  O                                                                         (0 = 0.0%) {94.1%}
+113  ------O                                                                   (1 = 5.9%) {94.1%}
+128  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 17 samples, average = 77.6 (flags = 0x1)
+0    ... 
+14   ------------------------------O                                           (2 = 11.8%) {0.0%}
+16   ... 
+37   ------------O                                                             (2 = 11.8%) {11.8%}
+42   ... 
+88   ------------------------------------------------------------------------O (12 = 70.6%) {23.5%}
+100  O                                                                         (0 = 0.0%) {94.1%}
+113  ------O                                                                   (1 = 5.9%) {94.1%}
+128  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 80 samples, average = 2350.0 (flags = 0x1)
+0     ... 
+88    -----O                                                                    (1 = 1.2%) {0.0%}
+100   O                                                                         (0 = 0.0%) {1.2%}
+113   -----O                                                                    (1 = 1.2%) {1.2%}
+128   -----O                                                                    (1 = 1.2%) {2.5%}
+145   ... 
+271   ---------------O                                                          (3 = 3.8%) {3.8%}
+307   ... 
+394   ----------O                                                               (2 = 2.5%) {7.5%}
+446   ... 
+572   -----O                                                                    (1 = 1.2%) {10.0%}
+648   -----O                                                                    (1 = 1.2%) {11.2%}
+734   ... 
+1065  ---------------O                                                          (3 = 3.8%) {12.5%}
+1206  -----O                                                                    (1 = 1.2%) {16.2%}
+1365  ----------O                                                               (2 = 2.5%) {17.5%}
+1546  --------------------------O                                               (5 = 6.2%) {20.0%}
+1750  ---------------------------------------------------------O                (11 = 13.8%) {26.2%}
+1981  ------------------------------------O                                     (7 = 8.8%) {40.0%}
+2243  -----------------------------------------O                                (8 = 10.0%) {48.8%}
+2540  ------------------------------------O                                     (7 = 8.8%) {58.8%}
+2876  -------------------------------O                                          (6 = 7.5%) {67.5%}
+3256  ------------------------------------------------------------------------O (14 = 17.5%) {75.0%}
+3687  --------------------------O                                               (5 = 6.2%) {92.5%}
+4175  ... 
+9958  -----O                                                                    (1 = 1.2%) {98.8%}
+11275 ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 11 samples, average = 942.6 (flags = 0x1)
+0     ... 
+113   ------------------------O                                                 (1 = 9.1%) {0.0%}
+128   ... 
+394   ------------------------------------------------O                         (2 = 18.2%) {9.1%}
+446   ... 
+572   ------------------------O                                                 (1 = 9.1%) {27.3%}
+648   ------------------------O                                                 (1 = 9.1%) {36.4%}
+734   ... 
+1065  ------------------------------------------------------------------------O (3 = 27.3%) {45.5%}
+1206  O                                                                         (0 = 0.0%) {72.7%}
+1365  ------------------------O                                                 (1 = 9.1%) {72.7%}
+1546  ------------------------O                                                 (1 = 9.1%) {81.8%}
+1750  ------------------------O                                                 (1 = 9.1%) {90.9%}
+1981  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 80 samples, average = 379.8 (flags = 0x1)
+0     ... 
+20    ---------O                                                                (1 = 1.2%) {0.0%}
+23    ... 
+61    ------O                                                                   (1 = 1.2%) {1.2%}
+69    ... 
+88    ------O                                                                   (1 = 1.2%) {2.5%}
+100   ----------------------------O                                             (5 = 6.2%) {3.8%}
+113   ---------------------------------O                                        (6 = 7.5%) {10.0%}
+128   ------------------------------------------------------------------------O (13 = 16.2%) {17.5%}
+145   --------------------------------------------------O                       (9 = 11.2%) {33.8%}
+164   ------------------------------------------------------------------O       (12 = 15.0%) {45.0%}
+186   -----------------O                                                        (3 = 3.8%) {60.0%}
+211   ---------------------------------O                                        (6 = 7.5%) {63.8%}
+239   -----------O                                                              (2 = 2.5%) {71.2%}
+271   -----------O                                                              (2 = 2.5%) {73.8%}
+307   ------O                                                                   (1 = 1.2%) {76.2%}
+348   ------O                                                                   (1 = 1.2%) {77.5%}
+394   ------O                                                                   (1 = 1.2%) {78.8%}
+446   ------O                                                                   (1 = 1.2%) {80.0%}
+505   ------O                                                                   (1 = 1.2%) {81.2%}
+572   ----------------------O                                                   (4 = 5.0%) {82.5%}
+648   O                                                                         (0 = 0.0%) {87.5%}
+734   -----------------O                                                        (3 = 3.8%) {87.5%}
+831   -----------------O                                                        (3 = 3.8%) {91.2%}
+941   ------O                                                                   (1 = 1.2%) {95.0%}
+1065  O                                                                         (0 = 0.0%) {96.2%}
+1206  ------O                                                                   (1 = 1.2%) {96.2%}
+1365  ------O                                                                   (1 = 1.2%) {97.5%}
+1546  ... 
+6861  ------O                                                                   (1 = 1.2%) {98.8%}
+7768  ... 
+
+
+</queries>
