@@ -1,14 +1,2 @@
 HTTP Running : 8000  from  /home/mininet/Downloads/computer-networks/project4/myURLS/events.sjsu.edu  with delay  0.0 s
-<socket._socketobject object at 0x7f34ae304050>
-/home/mininet/Downloads/computer-networks/project4/myURLS/events.sjsu.edu/EventListSyndicator.aspx
-/EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request
-/EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request
-trying hash: f82f0b905e8e2827c323342e8c8659a3
-10.0.0.15 - - [14/Oct/2018 20:58:36] "GET /EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request HTTP/1.1" 200 -
-<socket._socketobject object at 0x7f34ae304050>
-/home/mininet/Downloads/computer-networks/project4/myURLS/events.sjsu.edu/EventListSyndicator.aspx
-/EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request
-/EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request
-trying hash: f82f0b905e8e2827c323342e8c8659a3
-10.0.0.15 - - [14/Oct/2018 20:59:09] "GET /EventListSyndicator.aspx?type=N&number=5&category=20-0&ics=Y&highlight=Y&expire=Y&adpid=15&nem=No+events+are+available+that+match+your+request HTTP/1.1" 200 -
 Killed
