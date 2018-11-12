@@ -7,17 +7,17 @@ from pyretic.lib.query import packets
 from pyretic.core import packet
 
 def get_firewall_rule(entry):
-	rule = None
+	rule = match(ethtype=packet.IPV4)
 
 	# data type EthAddr
-	mcaddr_dst = entry['mcaddr_dst']
+	mcaddr_dst = entry['macaddr_dst']
 	if (mcaddr_dst != '-'):
-		rule = match(dstmac=EthAddr(mcaddr_dst))
+		rule = rule & match(dstmac=EthAddr(mcaddr_dst))
 	
 	# data type EthAddr
-	mcaddr_src = entry['mcaddr_src']
+	mcaddr_src = entry['macaddr_src']
 	if (mcaddr_src != '-'):
-		rule = match(srcmac=EthAddr(mcaddr_src))
+		rule = rule & match(srcmac=EthAddr(mcaddr_src))
 
 	protocol = entry['protocol']
 	if (protocol != '-'):
