@@ -112,6 +112,7 @@ topology-*
 # IDE
 .vscode
 .DS_Store
+__MACOSX
 
 # python compiled files
 *.pyc
